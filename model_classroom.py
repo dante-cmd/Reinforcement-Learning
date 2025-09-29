@@ -20,66 +20,60 @@ class Agent:
     def __init__(self):
         pass
 
+
 class Env:
     def __init__(self):
-        # self.data = pd.read_excel('data.xlsx', dtype='string')
         # Course and quantity
         self.course = 'B01RP'
         self.quantity = 19
         # States
-        self.states= np.array(['101', '102', '103', '104', '105', '106', '107', '108', '109', '110'])
-        # capacities
+        self.states = np.array(['101', '102', '103', '104', '105', '106', '107', '108', '109', '110'])
+        # Capacities
         self.capacities = np.array([15, 15, 20, 25, 25, 20, 20, 14, 10, 19])
         # Actions
-        self.actions = np.array(['up', 'down', 'keep'])
-        # rewards
-        self.diff = self.capacities - self.quantity
-        self.rewards = np.where(self.diff < 0,
-                                self.diff, np.where((self.diff>=0) & self.diff<=2, 2, 0))
-        # discount factor
-        self.gamma = 0.9
-        # Exploration factor
-        self.epsilon = 0.1
-        # init
+        self.actions = np.array(['101', '102', '103', '104', '105', '106', '107', '108', '109', '110'])
+
+        # Init
         self.state = np.random.choice(self.states)
         self.id_state = np.where(self.states == self.state)[0][0]
-        self.target = np.where(self.rewards == np.max(self.rewards))[0]
+        # Control the visits
+        self.visited = np.zeros((len(self.states), len(self.actions)))
         self.q_values = np.zeros((len(self.states), len(self.actions)))
 
     def reset(self):
         self.state = np.random.choice(self.states)
+        self.visited = np.zeros((len(self.states), len(self.actions)))
         self.id_state = np.where(self.states == self.state)[0][0]
+        self.q_values = np.zeros((len(self.states), len(self.actions)))
 
-    def step(self, id_action):
-        x = int(self.id_state)
-        factor = 0.7
-        if id_action == 0:
-            x += 1  # 'up'
-        elif id_action == 1:
-            x -= 1  # down
-        elif id_action == 2:
-            x += 0  # down
-            factor = 1
+    def step(self, id_action: int):
+        id_state = int(self.id_state)
+        diff = self.capacities - self.quantity
+        rewards = np.where(diff < 0,
+                           diff,
+                           np.where((diff >= 0) & diff <= 2, 2, 0))
+
+        factor = 0 if id_state == id_action else -0.6
+
+        reward = rewards[id_action] + factor
+        self.visited[id_action, id_action] += 1
+
         # The agent keeps in the same state if
         # the action inplies over the max or min values of the enviroment
-        next_id_state = max(0, min(x, len(self.states)-1))
+        # next_id_state = max(0, min(x, len(self.states)-1))
 
         # next_reward = 1 if next_state == self.goal else -0.01
         # reward = 1 if self.state == self.goal else -0.01
         # reward = self.rewards[self.id_state]
-        reward = self.rewards[next_id_state]
+        # reward = self.rewards[next_id_state]
+        next_id_state = id_action
+        # Update the state
+        self.id_state = next_id_state
 
-        done = next_id_state in self.target
-        return next_id_state, factor*reward, done
+        done = np.all(self.visited > 0)
+        # done = next_id_state in self.target
+        return next_id_state, reward, done
 
-    def choose_action(self):
-        if self.epsilon<np.random.random():
-            action = np.random.choice(self.actions)
-            id_action =np.where(self.actions == action)[0][0]
-        else:
-            id_action = np.argmax(self.q_values[self.id_state])
-
-        return id_action
 
 class TreeEnv(Env):
     def __init__(self):
@@ -104,7 +98,7 @@ class TreeEnv(Env):
             tree.fit(sample_states, sample_actions[:, idx])
             self.trees[idx] = tree
 
-    def predict_q_value(self, id_state:np.array, id_action:int):
+    def predict_q_value(self, id_state: np.array, id_action: int):
         return self.trees[id_action].predict(id_state.reshape(-1, 1))[0]
 
     def get_id_action(self, action) -> int:
@@ -112,23 +106,22 @@ class TreeEnv(Env):
         return id_action
 
     def choose_action(self) -> int:
-        if self.epsilon<np.random.random():
+        if self.epsilon < np.random.random():
             action = np.random.choice(self.actions)
             id_action = self.get_id_action(action)
         else:
-            q_values= [self.predict_q_value(self.id_state.reshape(-1, 1),
-                                            self.get_id_action(action)) for action in self.actions]
+            q_values = [self.predict_q_value(self.id_state.reshape(-1, 1),
+                                             self.get_id_action(action)) for action in self.actions]
 
             id_action = np.argmax(q_values)
 
         return id_action
 
-    def store_experience(self, id_state:np.array, id_action:int, reward:int,
-                         id_next_state:np.array, done:int):
+    def store_experience(self, id_state: np.array, id_action: int, reward: int,
+                         id_next_state: np.array, done: int):
         """Store experience in buffer"""
         self.experience_buffer[id_action].append((id_state, reward, id_next_state, done))
         self.step_count += 1
-
 
     def update_trees(self):
         """Update all action trees using experience buffer"""
@@ -173,7 +166,7 @@ class TreeEnv(Env):
         self.id_state = self.get_id_state(self.state)
         # x = np.array([1,6, 1, 1, 8, 8])
 
-    def step(self, id_action:int):
+    def step(self, id_action: int):
         x = int(self.id_state[0])
         if id_action == 0:
             x += 1  # 'up'
@@ -183,7 +176,7 @@ class TreeEnv(Env):
             x += 0  # down
         # The agent keeps in the same state if
         # the action implies over the max or min values of the environment
-        next_id_state = max(0, min(x, len(self.states)-1))
+        next_id_state = max(0, min(x, len(self.states) - 1))
 
         # next_reward = 1 if next_state == self.goal else -0.01
         # reward = 1 if self.state == self.goal else -0.01
@@ -195,31 +188,59 @@ class TreeEnv(Env):
 
 
 def q_learning():
-    n_iter = 10000
+    # Discount factor
+    gamma = 0.9
+    # Exploration factor
+    epsilon_min = 0.01
+    epsilon = 1.0
+    epsilon_decay = 0.995
+    # N iterations
+    n_iter = 5000
+    n_epoch = 200
+    # Environment
     env = Env()
+
+    q_values = env.q_values.copy()
     while True:
-        while True:
-            env.reset()
-            id_action = env.choose_action()
+        # done = False
+        env.reset()
+        # env.capacities - env.quantity
+
+        for _ in range(n_iter):
+            id_state = env.id_state
+            # id_action = env.choose_action()
+            if np.random.random() < epsilon:
+                action = np.random.choice(env.actions)
+                id_action = np.where(env.actions == action)[0][0]
+            else:
+                id_action = np.argmax(q_values[id_state])
+
             next_id_state, reward, done = env.step(id_action)
-            env.q_values[env.id_state,id_action] += env.gamma*(
-                    reward + np.max(
-                env.q_values[next_id_state, :]) - env.q_values[env.id_state, id_action])
+
             # print(env.id_state, id_action, env.q_values[env.id_state, id_action], next_id_state, reward, done)
+            # env.q_values[id_state, id_action] += gamma * (
+            #         reward + np.max(env.q_values[next_id_state, :]) -
+            #         env.q_values[id_state, id_action])
 
-            env.id_state = next_id_state
+            env.q_values[id_state, id_action] += reward
 
-            if done:
-                # print('done')
-                break
+            # env.id_state = next_id_state
 
-        if n_iter <= 1:
+        if n_epoch <= 1:
             break
-        n_iter-=1
-    return  env
+        n_epoch -= 1
+        # if n_epoch % 10 == 0:
+        #     epsilon = max(epsilon_min, epsilon * epsilon_decay)
+
+        q_values = (q_values + env.q_values)/n_epoch
+        # env.q_values = q_values.copy()
+
+    qq = pd.DataFrame(env.q_values)
+    qq.to_clipboard()
+    # return env
+
 
 def get_tree_approx():
-
     """Train the agent in the given environment"""
     env = TreeEnv()
     env.initialize_trees()
@@ -238,7 +259,6 @@ def get_tree_approx():
             # env.experience_buffer
             # Periodically update trees
             if env.step_count % env.tree_update_freq == 0:
-
                 env.update_trees()
 
             env.id_state = id_next_state.copy()
@@ -248,7 +268,7 @@ def get_tree_approx():
 
     from collections import namedtuple
 
-    Qvalues= namedtuple('QValues', ['state', 'action', 'q_value'])
+    Qvalues = namedtuple('QValues', ['state', 'action', 'q_value'])
 
     qw = []
     for state in env.states:
@@ -288,14 +308,14 @@ class QLearningTreeAgent:
         self.X_train = []  # State-action pairs
         self.y_train = []  # Q-value targets
 
-    def act(self, state:np.ndarray):
+    def act(self, state: np.ndarray):
         assert state.shape == (1,)
         if random.random() < self.epsilon:
             return random.randint(0, self.n_actions - 1)
         q_values = self._predict_q_values(state)
         return np.argmax(q_values)
 
-    def _predict_q_values(self, state:np.ndarray) -> np.ndarray:
+    def _predict_q_values(self, state: np.ndarray) -> np.ndarray:
         # Predict Q-values for all actions
         assert state.shape == (1,)
         q_values = np.zeros(self.n_actions)
@@ -304,10 +324,10 @@ class QLearningTreeAgent:
             q_values[action] = self.q_tree.predict(state_action)[0] if len(self.X_train) > 0 else 0.0
         return q_values
 
-    def store(self, state:np.ndarray, action:int, reward:int, next_state:np.ndarray, done:bool):
+    def store(self, state: np.ndarray, action: int, reward: int, next_state: np.ndarray, done: bool):
         self.replay_buffer.append((state, action, reward, next_state, done))
 
-    def train(self, batch_size:int=32):
+    def train(self, batch_size: int = 32):
         if len(self.replay_buffer) < batch_size:
             return
         batch = random.sample(self.replay_buffer, batch_size)
@@ -337,6 +357,7 @@ class QLearningTreeAgent:
     def decay_epsilon(self):
         self.epsilon = max(self.epsilon_min, self.epsilon * self.epsilon_decay)
 
+
 class Envs:
     def __init__(self):
         self.course = 'B01RP'
@@ -358,7 +379,7 @@ class Envs:
         self.target = np.where(
             self.rewards == np.max(self.rewards))[0]
 
-    def step(self, state:np.ndarray, action:int):
+    def step(self, state: np.ndarray, action: int):
         assert state.shape == (1,)
 
         x = int(state[0])
@@ -370,7 +391,7 @@ class Envs:
             x += 0  # down
         # The agent keeps in the same state if
         # the action implies over the max or min values of the environment
-        next_state = max(0, min(x, len(self.states)-1))
+        next_state = max(0, min(x, len(self.states) - 1))
 
         # next_reward = 1 if next_state == self.goal else -0.01
         # reward = 1 if self.state == self.goal else -0.01
@@ -381,16 +402,17 @@ class Envs:
         return np.array([next_state]), reward, done
 
     def reset(self):
-        return np.array([np.random.choice(range(0,len(self.states)))])
+        return np.array([np.random.choice(range(0, len(self.states)))])
+
 
 # Training and evaluation
 def main():
     env = Envs()
     # gym.make('CartPole-v1')
     state_dim = env.states.shape[0]
-    #env.observation_space.shape[0]  # 4 for CartPole
+    # env.observation_space.shape[0]  # 4 for CartPole
     n_actions = env.actions.shape[0]
-    #env.action_space.n  # 2 for CartPole
+    # env.action_space.n  # 2 for CartPole
     agent = QLearningTreeAgent(state_dim=state_dim, n_actions=n_actions)
 
     n_episodes = 500
@@ -403,7 +425,7 @@ def main():
 
         for step in range(max_steps):
             action = agent.act(state)
-            next_state, reward, done  = env.step(state, action)
+            next_state, reward, done = env.step(state, action)
             # done = terminated or truncated
             agent.store(state, action, reward, next_state, done)
 
@@ -424,13 +446,11 @@ def main():
     #  env.close()
 
     # Plot average rewards
-    ww  = []
+    ww = []
     for state in range(state_dim):
         ww.append(agent._predict_q_values(np.array([state])))
 
-    kk = pd.DataFrame(index=env.states, columns=env.actions,data=ww)
-
-
+    kk = pd.DataFrame(index=env.states, columns=env.actions, data=ww)
 
     import matplotlib.pyplot as plt
     plt.plot(np.convolve(rewards, np.ones(50) / 50, mode='valid'))

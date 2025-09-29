@@ -1,0 +1,41 @@
+{
+    "Sabatino": {
+        "PERIODO_FRANJA": "2. Sab",
+        "DIAS": [
+            "SAB"
+        ]
+    },
+    "Diario": {
+        "PERIODO_FRANJA": "1. Lun - Vie",
+        "DIAS": [
+            "LUN",
+            "MAR",
+            "MIE",
+            "JUE",
+            "VIE"
+        ]
+    },
+    "Interdiario L-M-V": {
+        "PERIODO_FRANJA": "1. Lun - Vie",
+        "DIAS": [
+            "LUN",
+            "MIE",
+            "VIE"
+        ]
+    },
+    "Interdiario M-J": {
+        "PERIODO_FRANJA": "1. Lun - Vie",
+        "DIAS": [
+            "MAR",
+            "JUE"
+        ]
+    },
+    "Interdiario": {
+        "PERIODO_FRANJA": "1. Lun - Vie",
+        "DIAS": [
+            "LUN",
+            "MIE",
+            "VIE"
+        ]
+    }
+}

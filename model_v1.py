@@ -8,6 +8,12 @@ import torch.optim as optim
 import torch.nn.functional as F
 import random
 from collections import defaultdict, deque
+import gymnasium as gym
+from gymnasium import spaces
+from stable_baselines3 import DQN
+from stable_baselines3.dqn.policies import DQNPolicy
+from stable_baselines3.common.torch_layers import BaseFeaturesExtractor
+from stable_baselines3.common.callbacks import CheckpointCallback
 
 
 class DataSet:
@@ -170,24 +176,26 @@ class Environment:
             return None, None, True
 
         item = self.items[self.idx_item].copy()
+
+        conflict = 0
+        dias = self.dim_frecuencia[item['FRECUENCIA']]['DIAS']
+        franjas = self.dim_horario[item['HORARIO']]
         aula = self.dim_aulas['AULA'][action]
         aforo = self.dim_aulas['AFORO'][action]
         roomlog = self.roomlog.copy()
-
-        # conflict = 0
-        # dias = self.dim_frecuencia[item['FRECUENCIA']]['DIAS']
-        # franjas = self.dim_horario[item['HORARIO']]
-        # # for periodo_franja in self.dim_periodo_franja.keys():
-        # for dia in dias:
-        #     for franja in franjas:
-        #         conflict = + roomlog[aula][dia][franja]
+        # for periodo_franja in self.dim_periodo_franja.keys():
+        for dia in dias:
+            for franja in franjas:
+                conflict = + roomlog[aula][dia][franja]
 
         # reward = 0
         # response = ''
-        if action == self.n_aulas:
-            # conflict > 0:
+        # if action == self.n_aulas:
+        if conflict > 0:
             reward = -10
             response = '[Conflict]'
+            aula = np.NAN
+            aforo = np.NAN
         else:
             if (aforo - item['ALUMN']) < 0:
                 reward = (aforo - item['ALUMN']) - 2
@@ -205,9 +213,7 @@ class Environment:
             for dia in dias:
                 for franja in franjas:
                     roomlog[aula][dia][franja] = 1
-
             self.roomlog = roomlog.copy()
-
         done = False
         self.idx_item += 1
         next_state = self.get_state()
@@ -220,6 +226,114 @@ class Environment:
         info['RESPONSE'] = response
 
         return reward, next_state, done, info
+
+
+class SchedulingEnv(gym.Env):
+    def __init__(self, dataset, sede: str):
+        # self = env
+        super(SchedulingEnv, self).__init__()
+        self.sede = sede
+        self.dataset = dataset
+        self.env_core = Environment(dataset, sede)
+
+        # Define action and observation space
+        self.n_aulas = self.env_core.n_aulas
+        self.n_franjas = self.env_core.n_franjas
+
+        # Action space: choose an aula (0 to n_aulas-1) or reject (n_aulas)
+        # self.action_space = spaces.Discrete(self.n_aulas + 1)
+        self.action_space = spaces.Discrete(self.n_aulas)
+
+        # Observation space: tuple (utilization [n_aulas x n_franjas], capacity [n_aulas])
+        self.observation_space = spaces.Dict({
+            "utilization": spaces.Box(
+                low=0, high=1, shape=(self.n_aulas, self.n_franjas), dtype=np.float32),
+            "capacity": spaces.Box(
+                low=0, high=100, shape=(self.n_aulas,), dtype=np.float32)
+        })
+        self.state = None
+        self.reset()
+
+    def reset(self, seed=None, options=None):
+        # Set seed for reproducibility
+        if seed is not None:
+            np.random.seed(seed)
+            self.action_space.seed(seed)
+
+        self.env_core.idx_item = 0
+        self.env_core.items_bimestral = self.env_core.sample(self.env_core.items_bimestral)
+        self.env_core.items = self.env_core.sample(self.env_core.items)
+        self.env_core.roomlog = self.env_core.get_roomlog()
+        self.state = self.env_core.get_state()
+
+        return self._convert_state(self.state), {}
+
+    def step(self, action):
+        reward, next_state, done, info = self.env_core.step(action)
+        self.state = next_state
+
+        # Convert response to reward shaping if needed
+        # (you can later refine this)
+        truncated = False  # No time limit here
+        # info = {"response": response}
+
+        obs = self._convert_state(next_state) if not done else None
+        return obs, reward, done, truncated, info
+
+    @staticmethod
+    def _convert_state(state):
+        if state is None:
+            return None
+        utilization, capacity = state
+        utilization = np.array(utilization, dtype=np.float32)
+        capacity = np.array(capacity, dtype=np.float32)
+        return {
+            "utilization": utilization,
+            "capacity": capacity
+        }
+
+    def render(self, mode="human"):
+        print(f"Current item index: {self.env_core.idx_item}")
+
+
+class CustomCombinedExtractor(BaseFeaturesExtractor):
+    def __init__(self, observation_space, cnn_output_dim=128, mlp_output_dim=64):
+        super(CustomCombinedExtractor, self).__init__(observation_space, features_dim=1)
+
+        # Image-like input: utilization [n_aulas, n_franjas]
+        n_aulas, n_franjas = observation_space["utilization"].shape
+        self.cnn = nn.Sequential(
+            nn.Conv2d(1, 12, kernel_size=3, padding=1),
+            nn.BatchNorm2d(12),
+            nn.ReLU(),
+            nn.Conv2d(12, 20, kernel_size=3, padding=1),
+            nn.ReLU(),
+            nn.Flatten(),
+            nn.Linear(n_aulas * n_franjas * 20, cnn_output_dim),
+            nn.ReLU(),
+        )
+
+        # Vector input: capacity [n_aulas]
+        self.mlp = nn.Sequential(
+            nn.Linear(n_aulas, 256),
+            nn.ReLU(),
+            nn.Linear(256, 256),
+            nn.ReLU(),
+            nn.Linear(256, mlp_output_dim),
+            nn.ReLU(),
+        )
+
+        # Compute combined features dim
+        self._features_dim = cnn_output_dim + mlp_output_dim
+
+    def forward(self, observations):
+        utilization = observations["utilization"].unsqueeze(1)  # Add channel dim
+        capacity = observations["capacity"]
+
+        cnn_features = self.cnn(utilization)
+        mlp_features = self.mlp(capacity)
+        combined = torch.cat([cnn_features, mlp_features], dim=1)
+        return combined
 
 
 # CNN Network
@@ -363,7 +477,7 @@ class DQNAgent:
                 q_values = q_values.squeeze(0)[:-1]
             action = np.argmax([-float('inf') if mask == 0 else q_values[idx].item()
                                 for idx, mask in enumerate(mask_actions)])
-            return action # torch.argmax(q_values).item()
+            return action  # torch.argmax(q_values).item()
 
     def remember(self, state, action, reward, next_state, done):
         if (state is not None) and (next_state is not None):
@@ -491,21 +605,80 @@ class DQNAgent:
 
 if __name__ == '__main__':
     PATH = Path("project")
-    SEDE = 'Ica'
     dataset_01 = DataSet(PATH)
 
-    env_01 = Environment(dataset_01, SEDE)
+    # Create wrapped gym environment
+    env = SchedulingEnv(dataset_01, 'Ica')
+    env = gym.wrappers.RecordEpisodeStatistics(env, buffer_length=100)
 
-    dqn_agent = DQNAgent(env_01)
-    dqn_agent.train(5000)
-    ww = dqn_agent.get_assignments()
-    hh = pd.DataFrame(ww)
-    # Define the path to save the model
-    PATH = f"model_{SEDE}.pt"
-    # Save the model's state_dict
-    torch.save(dqn_agent.model.state_dict(), PATH)
-    # ll = dqn_agent.get_assignments()
+    # Checkpoint callback
+    checkpoint_callback = CheckpointCallback(save_freq=5000, save_path="./checkpoints/",
+                                             name_prefix="dqn_scheduling")
 
+    # Custom policy with custom feature extractor
+    policy_kwargs = dict(
+        features_extractor_class=CustomCombinedExtractor,
+        features_extractor_kwargs=dict(cnn_output_dim=128, mlp_output_dim=64),
+        net_arch=[256, 256],  # Q-network top layers
+    )
 
+    # Create DQN agent
+    model = DQN(
+        "MultiInputPolicy",
+        env,
+        policy_kwargs=policy_kwargs,
+        learning_rate=3e-4,
+        buffer_size=10000,
+        learning_starts=2000,
+        batch_size=64,
+        tau=0.005,
+        gamma=0.95,
+        train_freq=1,
+        gradient_steps=1,
+        target_update_interval=100,
+        exploration_fraction=0.5,
+        exploration_initial_eps=1.0,
+        exploration_final_eps=0.01,
+        verbose=1,
+        tensorboard_log="./dqn_tensorboard/"
+    )
 
+    # Train
+    model.learn(total_timesteps=70000, callback=checkpoint_callback)
 
+    # Save model
+    model.save("dqn_scheduling_final")
+
+    # To load and run later:
+    model = DQN.load(
+        "dqn_scheduling_final",
+        env=env,
+        custom_objects={"policy_kwargs": policy_kwargs},
+    )
+
+    # Run inference
+    env = SchedulingEnv(dataset_01, 'Ica')
+    obs, _ = env.reset()
+    done = False
+    assignments = []
+    while not done:
+        action, _ = model.predict(obs, deterministic=True)
+        obs, reward, done, truncated, info = env.step(action)
+        assignments.append(info)
+    df = pd.DataFrame(assignments)
+    # df.to_clipboard()
+        # print(f"Action: {action}, Reward: {reward}, Info: {info}")
+
+# PATH = Path("project")
+# SEDE = 'Ica'
+# dataset_01 = DataSet(PATH)
+# env_01 = Environment(dataset_01, SEDE)
+# dqn_agent = DQNAgent(env_01)
+# dqn_agent.train(5000)
+# ww = dqn_agent.get_assignments()
+# hh = pd.DataFrame(ww)
+# # Define the path to save the model
+# PATH = f"model_{SEDE}.pt"
+# # Save the model's state_dict
+# torch.save(dqn_agent.model.state_dict(), PATH)
+# # ll = dqn_agent.get_assignments()

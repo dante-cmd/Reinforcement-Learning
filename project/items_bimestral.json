@@ -1,0 +1,2703 @@
+{
+    "Chimbote": [
+        {
+            "CODIGO_DE_CURSO": "KN4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 13
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "Y01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 16
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 16
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 16
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 16
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 12
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 12
+        }
+    ],
+    "Ica": [
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "105",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "108",
+            "ALUMN": 12
+        }
+    ],
+    "Iquitos": [
+        {
+            "CODIGO_DE_CURSO": "PK4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 22
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "401",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T02SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T04SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 20
+        }
+    ],
+    "La Molina": [
+        {
+            "CODIGO_DE_CURSO": "KN4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PK3SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PK4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "401",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "306",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C03S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "307",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C05S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "308",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "406",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y02S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "407",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "310",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "311",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "409",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "401",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "410",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "411",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "412",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "413",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "414",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "407",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "409",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T02SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "410",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "B01BP",
+            "HORARIO": "10:50 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "414",
+            "ALUMN": 21
+        },
+        {
+            "CODIGO_DE_CURSO": "B03BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "S306",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "504",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "506",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "S207",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T03SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "S305",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T05SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "S307",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "KN1SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "311",
+            "ALUMN": 15
+        }
+    ],
+    "Lima Centro": [
+        {
+            "CODIGO_DE_CURSO": "KN2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "KN4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PK4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "306",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "407",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 16
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "509",
+            "ALUMN": 17
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "510",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "307",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "306",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "308",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "C05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C06S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "509",
+            "ALUMN": 17
+        },
+        {
+            "CODIGO_DE_CURSO": "Y01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 16
+        },
+        {
+            "CODIGO_DE_CURSO": "Y02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 13
+        },
+        {
+            "CODIGO_DE_CURSO": "Y03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "503",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y05S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "510",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "608",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "609",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "609",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "705",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "706",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "706",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "709",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "406",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "601",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "311",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "602",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "601",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "602",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "603",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T01SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "603",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T02SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T03SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "604",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "B00BP",
+            "HORARIO": "10:50 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "505",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B01BP",
+            "HORARIO": "10:50 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "605",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B02BP",
+            "HORARIO": "10:50 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "604",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B03BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "704",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B04BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B05BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "701",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B06BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "702",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B10BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "508",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "PK1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "102",
+            "ALUMN": 15
+        }
+    ],
+    "Lima Norte Sat\u00e9lite": [
+        {
+            "CODIGO_DE_CURSO": "B03BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "410",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B04BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B05BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "B06BP",
+            "HORARIO": "14:40 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "318",
+            "ALUMN": 14
+        },
+        {
+            "CODIGO_DE_CURSO": "B07BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "412",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B08BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "315",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B09BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "412",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "B10BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "312",
+            "ALUMN": 21
+        },
+        {
+            "CODIGO_DE_CURSO": "B00BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "B02BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "311",
+            "ALUMN": 23
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C03S",
+            "HORARIO": "16:35 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "102",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "206",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "102",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "207",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "C06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "206",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "207",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "207",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "312",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "316",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "313",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "306",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "102",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "16:35 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "103",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "311",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "307",
+            "ALUMN": 17
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "307",
+            "ALUMN": 17
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "318",
+            "ALUMN": 14
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "16:35 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "316",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "103",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "312",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "319",
+            "ALUMN": 10
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "105",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "319",
+            "ALUMN": 10
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "320",
+            "ALUMN": 14
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "106",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "KN1SP",
+            "HORARIO": "16:35 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "KN4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PK4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "103",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "16:35 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "105",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "16:35 - 18:16",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "106",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "415",
+            "ALUMN": 14
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "106",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "105",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "106",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "320",
+            "ALUMN": 14
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "321",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "T01SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "416",
+            "ALUMN": 17
+        },
+        {
+            "CODIGO_DE_CURSO": "T02SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "410",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T03SP",
+            "HORARIO": "07:00 - 08:41",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T05SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "418",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "T06SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y01S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "308",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y03S",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y05S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "105",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PK1SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "106",
+            "ALUMN": 15
+        }
+    ],
+    "Miraflores": [
+        {
+            "CODIGO_DE_CURSO": "PK2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "407",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "604",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "507",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "409",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C06S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "Y01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "Y02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "706",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "505",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "602",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "704",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "605",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "607",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "608",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "401",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "412",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "707",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "506",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "601",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "701",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "B00BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "802",
+            "ALUMN": 22
+        },
+        {
+            "CODIGO_DE_CURSO": "B01BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "803",
+            "ALUMN": 22
+        },
+        {
+            "CODIGO_DE_CURSO": "I03BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "805",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "413",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "T01SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "708",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "T02SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "KN1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 15
+        }
+    ],
+    "Pucallpa": [
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "206",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 14
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "206",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "204",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "203",
+            "ALUMN": 20
+        }
+    ],
+    "San Miguel": [
+        {
+            "CODIGO_DE_CURSO": "KN2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PK3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "PK4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "507",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "502",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "505",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "405",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "407",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "408",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "601",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "501",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "506",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "503",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "509",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "504",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "602",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "C05S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "511",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "C06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "505",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "Y04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "508",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "Y06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "509",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "801",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "601",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "809",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "602",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "603",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "605",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "605",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "609",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "606",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "607",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "611",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "702",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "608",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "704",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "706",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "609",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "710",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "711",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "610",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "611",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "T03SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "702",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "B01BP",
+            "HORARIO": "07:00 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "704",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "B03BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "1301",
+            "ALUMN": 19
+        },
+        {
+            "CODIGO_DE_CURSO": "B05BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "1302",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "B06BP",
+            "HORARIO": "07:00 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "706",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "804",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T04SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "803",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "Y01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "510",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "802",
+            "ALUMN": 18
+        },
+        {
+            "CODIGO_DE_CURSO": "T01SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "705",
+            "ALUMN": 19
+        }
+    ],
+    "Surco": [
+        {
+            "CODIGO_DE_CURSO": "B03BP",
+            "HORARIO": "08:55 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "504",
+            "ALUMN": 24
+        },
+        {
+            "CODIGO_DE_CURSO": "B05BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 25
+        },
+        {
+            "CODIGO_DE_CURSO": "C01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "307",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "309",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "103",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K01S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "207",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K02S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "202",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "210",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "210",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K04S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K05S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "K06S",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "KN1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "103",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "KN2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "104",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "KN3SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "102",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "KN4SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "101",
+            "ALUMN": 15
+        },
+        {
+            "CODIGO_DE_CURSO": "C03S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "310",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C04S",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "313",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "C05S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "210",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "401",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "401",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR2SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "402",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "403",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "404",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "205",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "406",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR4SP",
+            "HORARIO": "14:40 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "207",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "206",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "201",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "208",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "206",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "306",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR7SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "208",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "JR8SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "303",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "308",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT1SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "211",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT2SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "311",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT3SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "312",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT4SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "314",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT5SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "PT6SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "312",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T01SP",
+            "HORARIO": "10:50 - 12:31",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "315",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T02SP",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "304",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "T03SP",
+            "HORARIO": "08:55 - 10:36",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "315",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y02S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "301",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "Y03S",
+            "HORARIO": "12:45 - 14:26",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "302",
+            "ALUMN": 20
+        },
+        {
+            "CODIGO_DE_CURSO": "B00BP",
+            "HORARIO": "12:45 - 16:21",
+            "FRECUENCIA": "Sabatino",
+            "AULA": "305",
+            "ALUMN": 25
+        }
+    ]
+}

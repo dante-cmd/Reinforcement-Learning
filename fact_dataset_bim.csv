@@ -1,0 +1,1623 @@
+PERIODO,SEDE,CODIGO_DE_CURSO,HORARIO,FRECUENCIA,AULA,ALUMN
+202506,Pucallpa,JR1SP,10:50 - 12:31,Sabatino,204,23
+202506,Pucallpa,JR4SP,08:55 - 10:36,Sabatino,202,20
+202506,Pucallpa,JR6SP,08:55 - 10:36,Sabatino,206,15
+202506,Pucallpa,K04S,08:55 - 10:36,Sabatino,201,19
+202506,Pucallpa,JR4SP,10:50 - 12:31,Sabatino,202,20
+202506,Pucallpa,JR5SP,10:50 - 12:31,Sabatino,206,15
+202506,Pucallpa,JR6SP,10:50 - 12:31,Sabatino,201,19
+202506,Pucallpa,K06S,10:50 - 12:31,Sabatino,205,14
+202506,Ica,JR1SP,14:40 - 16:21,Sabatino,105,23
+202506,Surco,KN1SP,08:55 - 10:36,Sabatino,103,15
+202506,Lima Norte Satélite,KN1SP,16:35 - 18:16,Sabatino,101,15
+202506,Lima Norte Satélite,KN2SP,08:55 - 10:36,Sabatino,101,15
+202506,La Molina,KN2SP,14:40 - 16:21,Sabatino,202,15
+202506,Surco,KN2SP,12:45 - 14:26,Sabatino,102,15
+202506,Surco,KN3SP,08:55 - 10:36,Sabatino,104,15
+202506,Surco,KN3SP,10:50 - 12:31,Sabatino,103,15
+202506,Chimbote,KN3SP,08:55 - 10:36,Sabatino,101,15
+202506,Lima Centro,KN3SP,10:50 - 12:31,Sabatino,201,15
+202506,La Molina,KN3SP,08:55 - 10:36,Sabatino,309,15
+202506,Lima Norte Satélite,KN3SP,08:55 - 10:36,Sabatino,102,15
+202506,Lima Norte Satélite,KN4SP,14:40 - 16:21,Sabatino,106,15
+202506,Miraflores,KN4SP,10:50 - 12:31,Sabatino,204,15
+202506,Miraflores,PK1SP,10:50 - 12:31,Sabatino,202,15
+202506,La Molina,PK1SP,10:50 - 12:31,Sabatino,309,15
+202506,La Molina,PK2SP,10:50 - 12:31,Sabatino,202,15
+202506,San Miguel,PK3SP,08:55 - 10:36,Sabatino,301,15
+202506,La Molina,PK3SP,08:55 - 10:36,Sabatino,304,15
+202506,Lima Norte Satélite,PK3SP,10:50 - 12:31,Sabatino,103,15
+202506,Lima Centro,PK3SP,08:55 - 10:36,Sabatino,102,15
+202506,Chimbote,PK3SP,10:50 - 12:31,Sabatino,101,15
+202506,Surco,PK3SP,12:45 - 14:26,Sabatino,101,15
+202506,Iquitos,PK3SP,08:55 - 10:36,Sabatino,203,15
+202506,Iquitos,K01S,08:55 - 10:36,Sabatino,403,23
+202506,Surco,K01S,10:50 - 12:31,Sabatino,205,23
+202506,Surco,K01S,08:55 - 10:36,Sabatino,210,23
+202506,Chimbote,K01S,08:55 - 10:36,Sabatino,102,17
+202506,Lima Centro,K01S,08:55 - 10:36,Sabatino,203,23
+202506,Miraflores,K01S,08:55 - 10:36,Sabatino,406,23
+202506,Miraflores,K01S,10:50 - 12:31,Sabatino,407,22
+202506,San Miguel,K01S,10:50 - 12:31,Sabatino,601,19
+202506,La Molina,K01S,10:50 - 12:31,Sabatino,304,23
+202506,San Miguel,K01S,08:55 - 10:36,Sabatino,505,19
+202506,Lima Norte Satélite,K01S,10:50 - 12:31,Sabatino,104,20
+202506,Lima Norte Satélite,K01S,08:55 - 10:36,Sabatino,319,10
+202506,Lima Norte Satélite,K01S,14:40 - 16:21,Sabatino,201,20
+202506,Lima Norte Satélite,C01S,08:55 - 10:36,Sabatino,207,20
+202506,La Molina,C01S,10:50 - 12:31,Sabatino,307,20
+202506,San Miguel,C01S,10:50 - 12:31,Sabatino,507,20
+202506,San Miguel,C01S,08:55 - 10:36,Sabatino,407,19
+202506,Miraflores,C01S,10:50 - 12:31,Sabatino,205,15
+202506,Lima Centro,C01S,10:50 - 12:31,Sabatino,505,23
+202506,Surco,C01S,10:50 - 12:31,Sabatino,309,23
+202506,Surco,C02S,10:50 - 12:31,Sabatino,310,23
+202506,Miraflores,C02S,08:55 - 10:36,Sabatino,303,15
+202506,Lima Centro,C02S,08:55 - 10:36,Sabatino,507,23
+202506,La Molina,C02S,14:40 - 16:21,Sabatino,301,20
+202506,Lima Norte Satélite,C02S,08:55 - 10:36,Sabatino,308,23
+202506,Lima Norte Satélite,C02S,16:35 - 18:16,Sabatino,102,20
+202506,Lima Norte Satélite,C03S,07:00 - 08:41,Sabatino,102,20
+202506,La Molina,C03S,10:50 - 12:31,Sabatino,409,20
+202506,San Miguel,C03S,08:55 - 10:36,Sabatino,408,20
+202506,San Miguel,C03S,10:50 - 12:31,Sabatino,509,19
+202506,Lima Norte Satélite,C03S,14:40 - 16:21,Sabatino,304,18
+202506,Lima Norte Satélite,C03S,08:55 - 10:36,Sabatino,307,17
+202506,Lima Centro,C03S,10:50 - 12:31,Sabatino,509,17
+202506,Lima Centro,C03S,08:55 - 10:36,Sabatino,503,23
+202506,Miraflores,C03S,08:55 - 10:36,Sabatino,305,15
+202506,Surco,C03S,10:50 - 12:31,Sabatino,313,23
+202506,Surco,C04S,12:45 - 14:26,Sabatino,206,23
+202506,Iquitos,C04S,08:55 - 10:36,Sabatino,401,23
+202506,Lima Centro,C04S,08:55 - 10:36,Sabatino,509,17
+202506,San Miguel,C04S,10:50 - 12:31,Sabatino,510,20
+202506,La Molina,C04S,10:50 - 12:31,Sabatino,201,20
+202506,Lima Norte Satélite,C04S,08:55 - 10:36,Sabatino,309,20
+202506,Lima Norte Satélite,C05S,08:55 - 10:36,Sabatino,303,23
+202506,La Molina,C05S,08:55 - 10:36,Sabatino,406,22
+202506,San Miguel,C05S,08:55 - 10:36,Sabatino,501,19
+202506,Miraflores,C05S,10:50 - 12:31,Sabatino,511,18
+202506,Lima Centro,C05S,10:50 - 12:31,Sabatino,510,21
+202506,Miraflores,C06S,08:55 - 10:36,Sabatino,401,15
+202506,Lima Centro,C06S,10:50 - 12:31,Sabatino,303,23
+202506,Iquitos,C06S,12:45 - 14:26,Sabatino,401,23
+202506,Chimbote,C06S,08:55 - 10:36,Sabatino,205,12
+202506,San Miguel,C06S,10:50 - 12:31,Sabatino,511,19
+202506,Lima Norte Satélite,C06S,08:55 - 10:36,Sabatino,312,21
+202506,Lima Norte Satélite,C06S,12:45 - 14:26,Sabatino,102,20
+202506,Lima Norte Satélite,K02S,08:55 - 10:36,Sabatino,201,20
+202506,Lima Norte Satélite,K02S,10:50 - 12:31,Sabatino,105,20
+202506,Lima Norte Satélite,K02S,14:40 - 16:21,Sabatino,202,20
+202506,San Miguel,K02S,10:50 - 12:31,Sabatino,408,20
+202506,La Molina,K02S,10:50 - 12:31,Sabatino,303,22
+202506,La Molina,K02S,08:55 - 10:36,Sabatino,401,20
+202506,Surco,K02S,10:50 - 12:31,Sabatino,210,23
+202506,Surco,K02S,08:55 - 10:36,Sabatino,302,22
+202506,Miraflores,K02S,10:50 - 12:31,Sabatino,607,18
+202506,Miraflores,K02S,08:55 - 10:36,Sabatino,414,17
+202506,Lima Centro,K02S,08:55 - 10:36,Sabatino,306,20
+202506,Lima Centro,K03S,08:55 - 10:36,Sabatino,407,20
+202506,Lima Centro,K03S,10:50 - 12:31,Sabatino,309,13
+202506,Miraflores,K03S,10:50 - 12:31,Sabatino,505,22
+202506,Surco,K03S,08:55 - 10:36,Sabatino,303,22
+202506,Surco,K03S,10:50 - 12:31,Sabatino,304,23
+202506,Chimbote,K03S,08:55 - 10:36,Sabatino,204,18
+202506,La Molina,K03S,08:55 - 10:36,Sabatino,404,23
+202506,San Miguel,K03S,12:45 - 14:26,Sabatino,402,20
+202506,La Molina,K03S,10:50 - 12:31,Sabatino,302,20
+202506,San Miguel,K03S,08:55 - 10:36,Sabatino,303,20
+202506,Lima Norte Satélite,K03S,14:40 - 16:21,Sabatino,204,20
+202506,San Miguel,K03S,10:50 - 12:31,Sabatino,502,18
+202506,Lima Norte Satélite,K03S,10:50 - 12:31,Sabatino,106,20
+202506,Lima Norte Satélite,K03S,10:50 - 12:31,Sabatino,202,20
+202506,Lima Norte Satélite,K03S,08:55 - 10:36,Sabatino,202,20
+202506,Lima Norte Satélite,K04S,14:40 - 16:21,Sabatino,205,20
+202506,Lima Norte Satélite,K04S,08:55 - 10:36,Sabatino,203,20
+202506,San Miguel,K04S,08:55 - 10:36,Sabatino,508,19
+202506,La Molina,K04S,08:55 - 10:36,Sabatino,405,21
+202506,Surco,K04S,08:55 - 10:36,Sabatino,304,23
+202506,Iquitos,K04S,10:50 - 12:31,Sabatino,203,23
+202506,Miraflores,K04S,10:50 - 12:31,Sabatino,413,18
+202506,Lima Centro,K04S,08:55 - 10:36,Sabatino,403,23
+202506,Miraflores,K05S,10:50 - 12:31,Sabatino,404,15
+202506,Lima Centro,K05S,08:55 - 10:36,Sabatino,305,20
+202506,Surco,K05S,08:55 - 10:36,Sabatino,207,23
+202506,La Molina,K05S,10:50 - 12:31,Sabatino,305,21
+202506,San Miguel,K05S,08:55 - 10:36,Sabatino,402,20
+202506,San Miguel,K05S,10:50 - 12:31,Sabatino,505,19
+202506,Lima Norte Satélite,K05S,08:55 - 10:36,Sabatino,204,20
+202506,Lima Norte Satélite,K05S,14:40 - 16:21,Sabatino,207,20
+202506,San Miguel,K06S,08:55 - 10:36,Sabatino,405,20
+202506,San Miguel,K06S,10:50 - 12:31,Sabatino,506,18
+202506,Lima Norte Satélite,K06S,08:55 - 10:36,Sabatino,205,20
+202506,La Molina,K06S,10:50 - 12:31,Sabatino,306,22
+202506,Surco,K06S,08:55 - 10:36,Sabatino,402,22
+202506,Iquitos,K06S,10:50 - 12:31,Sabatino,302,23
+202506,Surco,K06S,10:50 - 12:31,Sabatino,307,23
+202506,Lima Centro,K06S,08:55 - 10:36,Sabatino,301,23
+202506,Miraflores,K06S,08:55 - 10:36,Sabatino,504,23
+202506,Miraflores,K06S,10:50 - 12:31,Sabatino,405,15
+202506,Miraflores,Y01S,10:50 - 12:31,Sabatino,412,18
+202506,Lima Centro,Y01S,10:50 - 12:31,Sabatino,305,20
+202506,Surco,Y01S,12:45 - 14:26,Sabatino,203,22
+202506,La Molina,Y01S,10:50 - 12:31,Sabatino,310,19
+202506,Lima Norte Satélite,Y01S,08:55 - 10:36,Sabatino,316,21
+202506,Lima Norte Satélite,Y02S,14:40 - 16:21,Sabatino,306,20
+202506,La Molina,Y02S,10:50 - 12:31,Sabatino,311,19
+202506,Surco,Y02S,12:45 - 14:26,Sabatino,209,23
+202506,Lima Centro,Y02S,08:55 - 10:36,Sabatino,303,23
+202506,Miraflores,Y02S,10:50 - 12:31,Sabatino,403,15
+202506,Lima Centro,Y03S,08:55 - 10:36,Sabatino,304,23
+202506,La Molina,Y03S,08:55 - 10:36,Sabatino,407,21
+202506,San Miguel,Y03S,08:55 - 10:36,Sabatino,503,19
+202506,Lima Norte Satélite,Y03S,14:40 - 16:21,Sabatino,307,17
+202506,Lima Norte Satélite,Y04S,12:45 - 14:26,Sabatino,103,20
+202506,Lima Centro,Y04S,10:50 - 12:31,Sabatino,308,19
+202506,San Miguel,Y05S,08:55 - 10:36,Sabatino,504,20
+202506,Lima Centro,Y06S,08:55 - 10:36,Sabatino,307,23
+202506,Lima Centro,JR1SP,08:55 - 10:36,Sabatino,510,21
+202506,Chincha,JR1SP,10:50 - 12:31,Sabatino,201,23
+202506,Miraflores,JR1SP,10:50 - 12:31,Sabatino,507,23
+202506,Lima Centro,JR1SP,10:50 - 12:31,Sabatino,609,22
+202506,Surco,JR1SP,08:55 - 10:36,Sabatino,403,22
+202506,Iquitos,JR1SP,10:50 - 12:31,Sabatino,402,23
+202506,Surco,JR1SP,10:50 - 12:31,Sabatino,401,22
+202506,Chimbote,JR1SP,08:55 - 10:36,Sabatino,203,18
+202506,San Miguel,JR1SP,08:55 - 10:36,Sabatino,602,18
+202506,La Molina,JR1SP,08:55 - 10:36,Sabatino,408,22
+202506,La Molina,JR1SP,10:50 - 12:31,Sabatino,414,21
+202506,San Miguel,JR1SP,10:50 - 12:31,Sabatino,804,20
+202506,Lima Norte Satélite,JR1SP,08:55 - 10:36,Sabatino,301,23
+202506,Lima Norte Satélite,JR1SP,14:40 - 16:21,Sabatino,309,20
+202506,Lima Norte Satélite,JR1SP,10:50 - 12:31,Sabatino,203,20
+202506,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,205,20
+202506,Lima Norte Satélite,JR2SP,14:40 - 16:21,Sabatino,311,23
+202506,Lima Norte Satélite,JR2SP,08:55 - 10:36,Sabatino,403,23
+202506,San Miguel,JR2SP,10:50 - 12:31,Sabatino,602,18
+202506,La Molina,JR2SP,08:55 - 10:36,Sabatino,506,22
+202506,La Molina,JR2SP,10:50 - 12:31,Sabatino,403,22
+202506,Chimbote,JR2SP,08:55 - 10:36,Sabatino,201,13
+202506,Chimbote,JR2SP,10:50 - 12:31,Sabatino,205,12
+202506,Iquitos,JR2SP,10:50 - 12:31,Sabatino,202,23
+202506,Surco,JR2SP,10:50 - 12:31,Sabatino,402,22
+202506,Surco,JR2SP,08:55 - 10:36,Sabatino,407,23
+202506,Lima Centro,JR2SP,08:55 - 10:36,Sabatino,609,22
+202506,Miraflores,JR2SP,10:50 - 12:31,Sabatino,604,23
+202506,Lima Centro,JR2SP,10:50 - 12:31,Sabatino,705,21
+202506,Lima Centro,JR3SP,10:50 - 12:31,Sabatino,706,22
+202506,Miraflores,JR3SP,08:55 - 10:36,Sabatino,404,15
+202506,Miraflores,JR3SP,10:50 - 12:31,Sabatino,605,19
+202506,Lima Centro,JR3SP,08:55 - 10:36,Sabatino,706,22
+202506,Surco,JR3SP,14:40 - 16:21,Sabatino,303,22
+202506,Surco,JR3SP,10:50 - 12:31,Sabatino,407,23
+202506,Surco,JR3SP,08:55 - 10:36,Sabatino,206,23
+202506,Iquitos,JR3SP,10:50 - 12:31,Sabatino,201,23
+202506,Chimbote,JR3SP,10:50 - 12:31,Sabatino,304,18
+202506,Chimbote,JR3SP,08:55 - 10:36,Sabatino,301,13
+202506,San Miguel,JR3SP,10:50 - 12:31,Sabatino,603,19
+202506,La Molina,JR3SP,12:45 - 14:26,Sabatino,301,20
+202506,La Molina,JR3SP,08:55 - 10:36,Sabatino,S307,21
+202506,La Molina,JR3SP,10:50 - 12:31,Sabatino,404,23
+202506,San Miguel,JR3SP,08:55 - 10:36,Sabatino,605,19
+202506,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,403,23
+202506,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,207,20
+202506,San Miguel,JR3SP,12:45 - 14:26,Sabatino,403,19
+202506,Lima Norte Satélite,JR3SP,14:40 - 16:21,Sabatino,312,21
+202506,Lima Norte Satélite,JR3SP,08:55 - 10:36,Sabatino,302,23
+202506,Lima Norte Satélite,JR4SP,16:35 - 18:16,Sabatino,103,20
+202506,Lima Norte Satélite,JR4SP,14:40 - 16:21,Sabatino,316,21
+202506,San Miguel,JR4SP,08:55 - 10:36,Sabatino,606,18
+202506,Lima Norte Satélite,JR4SP,08:55 - 10:36,Sabatino,407,19
+202506,Lima Norte Satélite,JR4SP,10:50 - 12:31,Sabatino,305,20
+202506,La Molina,JR4SP,08:55 - 10:36,Sabatino,S207,21
+202506,La Molina,JR4SP,10:50 - 12:31,Sabatino,405,21
+202506,San Miguel,JR4SP,10:50 - 12:31,Sabatino,605,19
+202506,Chimbote,JR4SP,08:55 - 10:36,Sabatino,403,18
+202506,Iquitos,JR4SP,10:50 - 12:31,Sabatino,303,23
+202506,Surco,JR4SP,08:55 - 10:36,Sabatino,208,23
+202506,Surco,JR4SP,10:50 - 12:31,Sabatino,404,23
+202506,Lima Centro,JR4SP,10:50 - 12:31,Sabatino,709,20
+202506,Iquitos,JR4SP,10:50 - 12:31,Sabatino,404,23
+202506,Miraflores,JR4SP,10:50 - 12:31,Sabatino,409,23
+202506,Lima Centro,JR4SP,08:55 - 10:36,Sabatino,604,23
+202506,Lima Centro,JR5SP,08:55 - 10:36,Sabatino,402,23
+202506,Lima Centro,JR5SP,10:50 - 12:31,Sabatino,306,20
+202506,San Miguel,JR5SP,08:55 - 10:36,Sabatino,607,20
+202506,San Miguel,JR5SP,10:50 - 12:31,Sabatino,609,19
+202506,La Molina,JR5SP,08:55 - 10:36,Sabatino,412,20
+202506,Lima Norte Satélite,JR5SP,10:50 - 12:31,Sabatino,320,14
+202506,Lima Norte Satélite,JR5SP,08:55 - 10:36,Sabatino,415,14
+202506,Lima Norte Satélite,JR5SP,16:35 - 18:16,Sabatino,104,20
+202506,Lima Norte Satélite,JR7SP,10:50 - 12:31,Sabatino,312,21
+202506,Lima Norte Satélite,JR7SP,08:55 - 10:36,Sabatino,408,19
+202506,Lima Centro,JR7SP,10:50 - 12:31,Sabatino,404,23
+202506,Miraflores,JR7SP,08:55 - 10:36,Sabatino,407,22
+202506,Miraflores,JR7SP,10:50 - 12:31,Sabatino,509,22
+202506,Lima Centro,JR7SP,08:55 - 10:36,Sabatino,404,23
+202506,Surco,JR7SP,10:50 - 12:31,Sabatino,306,23
+202506,Iquitos,JR7SP,10:50 - 12:31,Sabatino,403,23
+202506,Chimbote,JR7SP,10:50 - 12:31,Sabatino,303,18
+202506,Surco,JR8SP,08:55 - 10:36,Sabatino,312,23
+202506,Surco,JR8SP,10:50 - 12:31,Sabatino,308,23
+202506,Iquitos,JR8SP,12:45 - 14:26,Sabatino,402,23
+202506,Lima Centro,JR8SP,10:50 - 12:31,Sabatino,405,23
+202506,Miraflores,JR8SP,10:50 - 12:31,Sabatino,508,19
+202506,Lima Norte Satélite,JR8SP,08:55 - 10:36,Sabatino,416,17
+202506,Lima Norte Satélite,JR8SP,16:35 - 18:16,Sabatino,106,20
+202506,Lima Norte Satélite,JR8SP,07:00 - 08:41,Sabatino,104,20
+202506,San Miguel,JR8SP,10:50 - 12:31,Sabatino,704,20
+202506,La Molina,JR8SP,10:50 - 12:31,Sabatino,408,22
+202506,La Molina,PT1SP,10:50 - 12:31,Sabatino,308,22
+202506,San Miguel,PT1SP,08:55 - 10:36,Sabatino,609,19
+202506,San Miguel,PT1SP,10:50 - 12:31,Sabatino,705,19
+202506,Lima Norte Satélite,PT1SP,16:35 - 18:16,Sabatino,201,20
+202506,Lima Norte Satélite,PT1SP,08:55 - 10:36,Sabatino,422,20
+202506,Lima Norte Satélite,PT1SP,07:00 - 08:41,Sabatino,105,20
+202506,Lima Norte Satélite,PT1SP,10:50 - 12:31,Sabatino,316,21
+202506,Miraflores,PT1SP,08:55 - 10:36,Sabatino,408,22
+202506,Miraflores,PT1SP,10:50 - 12:31,Sabatino,602,22
+202506,Lima Centro,PT1SP,08:55 - 10:36,Sabatino,405,23
+202506,Lima Centro,PT1SP,10:50 - 12:31,Sabatino,602,23
+202506,Surco,PT1SP,10:50 - 12:31,Sabatino,311,23
+202506,Chimbote,PT1SP,08:55 - 10:36,Sabatino,304,18
+202506,Chimbote,PT2SP,08:55 - 10:36,Sabatino,402,16
+202506,Surco,PT2SP,10:50 - 12:31,Sabatino,312,23
+202506,Lima Centro,PT2SP,10:50 - 12:31,Sabatino,603,23
+202506,Miraflores,PT2SP,10:50 - 12:31,Sabatino,506,22
+202506,Lima Norte Satélite,PT2SP,07:00 - 08:41,Sabatino,106,20
+202506,Lima Norte Satélite,PT2SP,12:45 - 14:26,Sabatino,105,20
+202506,San Miguel,PT2SP,10:50 - 12:31,Sabatino,706,18
+202506,La Molina,PT3SP,10:50 - 12:31,Sabatino,413,19
+202506,Lima Norte Satélite,PT3SP,10:50 - 12:31,Sabatino,318,14
+202506,San Miguel,PT3SP,10:50 - 12:31,Sabatino,710,20
+202506,San Miguel,PT3SP,08:55 - 10:36,Sabatino,610,20
+202506,Miraflores,PT3SP,10:50 - 12:31,Sabatino,707,18
+202506,Lima Centro,PT3SP,12:45 - 14:26,Sabatino,306,20
+202506,Surco,PT3SP,10:50 - 12:31,Sabatino,314,23
+202506,Surco,PT4SP,08:55 - 10:36,Sabatino,505,23
+202506,Iquitos,PT4SP,10:50 - 12:31,Sabatino,401,23
+202506,Chimbote,PT4SP,10:50 - 12:31,Sabatino,302,16
+202506,Lima Centro,PT4SP,10:50 - 12:31,Sabatino,604,23
+202506,Miraflores,PT4SP,10:50 - 12:31,Sabatino,601,23
+202506,Lima Norte Satélite,PT4SP,10:50 - 12:31,Sabatino,309,20
+202506,San Miguel,PT4SP,10:50 - 12:31,Sabatino,711,19
+202506,San Miguel,PT5SP,08:55 - 10:36,Sabatino,611,19
+202506,Lima Norte Satélite,PT5SP,07:00 - 08:41,Sabatino,202,20
+202506,Lima Norte Satélite,PT5SP,10:50 - 12:31,Sabatino,321,15
+202506,Miraflores,PT5SP,10:50 - 12:31,Sabatino,402,15
+202506,Lima Centro,PT5SP,10:50 - 12:31,Sabatino,605,23
+202506,Chimbote,PT5SP,10:50 - 12:31,Sabatino,203,18
+202506,Surco,PT5SP,08:55 - 10:36,Sabatino,406,23
+202506,Iquitos,PT5SP,12:45 - 14:26,Sabatino,403,23
+202506,Surco,PT6SP,10:50 - 12:31,Sabatino,505,23
+202506,Lima Centro,PT6SP,08:55 - 10:36,Sabatino,406,23
+202506,Miraflores,PT6SP,10:50 - 12:31,Sabatino,510,18
+202506,Lima Norte Satélite,PT6SP,08:55 - 10:36,Sabatino,320,14
+202506,La Molina,PT6SP,12:45 - 14:26,Sabatino,302,20
+202506,San Miguel,T01SP,08:55 - 10:36,Sabatino,701,19
+202506,La Molina,T01SP,10:50 - 12:31,Sabatino,401,20
+202506,Lima Norte Satélite,T01SP,10:50 - 12:31,Sabatino,410,23
+202506,Lima Centro,T01SP,12:45 - 14:26,Sabatino,203,23
+202506,Iquitos,T01SP,12:45 - 14:26,Sabatino,203,23
+202506,Surco,T01SP,12:45 - 14:26,Sabatino,210,23
+202506,Surco,T02SP,08:55 - 10:36,Sabatino,401,22
+202506,Lima Centro,T02SP,08:55 - 10:36,Sabatino,602,23
+202506,Lima Norte Satélite,T02SP,07:00 - 08:41,Sabatino,203,20
+202506,San Miguel,T02SP,08:55 - 10:36,Sabatino,702,18
+202506,Iquitos,T03SP,08:55 - 10:36,Sabatino,402,23
+202506,Surco,T03SP,12:45 - 14:26,Sabatino,301,22
+202506,Lima Norte Satélite,T04SP,08:55 - 10:36,Sabatino,104,20
+202506,Lima Norte Satélite,T05SP,12:45 - 14:26,Sabatino,106,20
+202506,Surco,JR5SP,08:55 - 10:36,Sabatino,211,23
+202506,Iquitos,JR5SP,08:55 - 10:36,Sabatino,303,23
+202506,Surco,JR5SP,10:50 - 12:31,Sabatino,206,23
+202506,Chimbote,JR5SP,08:55 - 10:36,Sabatino,302,16
+202506,Miraflores,JR5SP,10:50 - 12:31,Sabatino,303,15
+202506,Lima Centro,JR6SP,08:55 - 10:36,Sabatino,408,16
+202506,Miraflores,JR6SP,10:50 - 12:31,Sabatino,608,18
+202506,Miraflores,JR6SP,08:55 - 10:36,Sabatino,405,15
+202506,Lima Centro,JR6SP,10:50 - 12:31,Sabatino,408,16
+202506,Chimbote,JR6SP,10:50 - 12:31,Sabatino,204,18
+202506,Chimbote,JR6SP,08:55 - 10:36,Sabatino,303,18
+202506,Surco,JR6SP,10:50 - 12:31,Sabatino,208,23
+202506,Iquitos,JR6SP,10:50 - 12:31,Sabatino,301,23
+202506,Surco,JR6SP,08:55 - 10:36,Sabatino,305,23
+202506,Lima Norte Satélite,JR6SP,10:50 - 12:31,Sabatino,311,23
+202506,Lima Norte Satélite,JR6SP,07:00 - 08:41,Sabatino,103,20
+202506,San Miguel,JR6SP,08:55 - 10:36,Sabatino,608,19
+202506,La Molina,JR6SP,10:50 - 12:31,Sabatino,407,21
+202506,La Molina,JR6SP,08:55 - 10:36,Sabatino,413,19
+202506,Lima Norte Satélite,JR6SP,16:35 - 18:16,Sabatino,105,20
+202506,Lima Norte Satélite,JR6SP,12:45 - 14:26,Sabatino,104,20
+202506,San Miguel,JR6SP,10:50 - 12:31,Sabatino,611,19
+202506,San Miguel,JR7SP,10:50 - 12:31,Sabatino,702,18
+202506,La Molina,JR7SP,08:55 - 10:36,Sabatino,S305,23
+202506,Lima Centro,B00BP,10:50 - 14:26,Sabatino,311,30
+202506,Miraflores,B00BP,08:55 - 12:31,Sabatino,804,23
+202506,La Molina,B00BP,10:50 - 14:26,Sabatino,513,19
+202506,San Miguel,B00BP,08:55 - 12:31,Sabatino,1302,18
+202506,Lima Norte Satélite,B00BP,10:50 - 14:26,Sabatino,407,19
+202506,Lima Norte Satélite,B01BP,12:45 - 16:21,Sabatino,403,26
+202506,Miraflores,B01BP,08:55 - 12:31,Sabatino,805,19
+202506,Lima Centro,B01BP,10:50 - 14:26,Sabatino,507,27
+202506,Lima Centro,B02BP,08:55 - 12:31,Sabatino,508,27
+202506,Lima Centro,B02BP,10:50 - 14:26,Sabatino,606,27
+202506,San Miguel,B02BP,08:55 - 12:31,Sabatino,1303,20
+202506,Lima Norte Satélite,B02BP,07:00 - 10:36,Sabatino,418,19
+202506,Lima Norte Satélite,B02BP,12:45 - 16:21,Sabatino,318,14
+202506,Lima Norte Satélite,B02BP,10:50 - 14:26,Sabatino,408,19
+202506,La Molina,B02BP,08:55 - 12:31,Sabatino,S201,23
+202506,Lima Norte Satélite,B03BP,12:45 - 16:21,Sabatino,301,27
+202506,Lima Centro,B03BP,12:45 - 16:21,Sabatino,505,27
+202506,Lima Centro,B04BP,08:55 - 12:31,Sabatino,701,26
+202506,Miraflores,B04BP,08:55 - 12:31,Sabatino,807,18
+202506,Lima Norte Satélite,B04BP,12:45 - 16:21,Sabatino,410,25
+202506,San Miguel,B04BP,08:55 - 12:31,Sabatino,1304,19
+202506,Lima Norte Satélite,B05BP,14:40 - 18:16,Sabatino,310,24
+202506,San Miguel,B05BP,08:55 - 12:31,Sabatino,1401,19
+202506,Lima Centro,B05BP,08:55 - 12:31,Sabatino,702,27
+202506,Lima Norte Satélite,B06BP,12:45 - 16:21,Sabatino,422,20
+202506,Lima Norte Satélite,B07BP,08:55 - 12:31,Sabatino,315,25
+202506,La Molina,B08BP,12:45 - 16:21,Sabatino,305,21
+202506,Lima Norte Satélite,B09BP,12:45 - 16:21,Sabatino,406,21
+202506,Miraflores,I02BP,08:55 - 12:31,Sabatino,808,18
+202506,Surco,B02BP,08:55 - 12:31,Sabatino,316,29
+202506,Miraflores,T01SP,10:50 - 12:31,Sabatino,512,17
+202506,La Molina,PT2SP,08:55 - 10:36,Sabatino,504,23
+202506,La Molina,PT4SP,08:55 - 10:36,Sabatino,409,20
+202506,La Molina,PT5SP,08:55 - 10:36,Sabatino,411,19
+202506,La Molina,T02SP,08:55 - 10:36,Sabatino,513,19
+202506,La Molina,T04SP,08:55 - 10:36,Sabatino,414,21
+202506,Lima Norte Satélite,B08BP,08:55 - 12:31,Sabatino,406,21
+202506,San Miguel,PT6SP,10:50 - 12:31,Sabatino,801,19
+202506,San Miguel,T03SP,10:50 - 12:31,Sabatino,802,18
+202506,San Miguel,KN1SP,10:50 - 12:31,Sabatino,404,15
+202506,Lima Centro,KN1SP,08:55 - 10:36,Sabatino,101,15
+202506,Lima Centro,B09BP,08:55 - 12:31,Sabatino,506,26
+202506,San Miguel,PK2SP,08:55 - 10:36,Sabatino,302,15
+202506,Lima Norte Satélite,PT3SP,07:00 - 08:41,Sabatino,204,20
+202506,Lima Norte Satélite,T03SP,07:00 - 08:41,Sabatino,201,20
+202506,Surco,B04BP,12:45 - 16:21,Sabatino,305,25
+202506,Ica,JR5SP,14:40 - 16:21,Sabatino,201,15
+202506,Lima Norte Satélite,JR1SP,10:50 - 12:31,Sabatino,422,20
+202507,La Molina,KN1SP,08:55 - 10:36,Sabatino,201,15
+202507,San Miguel,KN1SP,10:50 - 12:31,Sabatino,302,15
+202507,Lima Centro,KN1SP,10:50 - 12:31,Sabatino,102,15
+202507,Miraflores,KN1SP,08:55 - 10:36,Sabatino,201,15
+202507,Surco,KN1SP,08:55 - 10:36,Sabatino,101,15
+202507,San Miguel,KN2SP,10:50 - 12:31,Sabatino,303,15
+202507,La Molina,KN2SP,08:55 - 10:36,Sabatino,202,15
+202507,Surco,KN2SP,08:55 - 10:36,Sabatino,102,15
+202507,Miraflores,KN2SP,08:55 - 10:36,Sabatino,202,15
+202507,San Miguel,PK1SP,10:50 - 12:31,Sabatino,201,15
+202507,Lima Norte Satélite,PK1SP,10:50 - 12:31,Sabatino,101,15
+202507,Surco,PK1SP,10:50 - 12:31,Sabatino,101,15
+202507,San Miguel,PK2SP,10:50 - 12:31,Sabatino,301,15
+202507,Surco,PK2SP,10:50 - 12:31,Sabatino,102,15
+202507,Lima Centro,PK2SP,08:55 - 10:36,Sabatino,201,15
+202507,La Molina,C01S,12:45 - 14:26,Sabatino,307,20
+202507,San Miguel,C01S,10:50 - 12:31,Sabatino,407,19
+202507,Lima Norte Satélite,C01S,10:50 - 12:31,Sabatino,206,20
+202507,Surco,C01S,12:45 - 14:26,Sabatino,204,20
+202507,Lima Centro,C01S,08:55 - 10:36,Sabatino,309,13
+202507,Lima Norte Satélite,C02S,08:55 - 10:36,Sabatino,317,14
+202507,San Miguel,C02S,08:55 - 10:36,Sabatino,403,19
+202507,La Molina,C02S,10:50 - 12:31,Sabatino,402,20
+202507,San Miguel,C02S,10:50 - 12:31,Sabatino,501,19
+202507,Lima Centro,C02S,10:50 - 12:31,Sabatino,203,23
+202507,Miraflores,C02S,10:50 - 12:31,Sabatino,401,15
+202507,La Molina,C03S,12:45 - 14:26,Sabatino,308,22
+202507,Lima Norte Satélite,C03S,10:50 - 12:31,Sabatino,307,17
+202507,Lima Centro,C03S,08:55 - 10:36,Sabatino,401,23
+202507,Miraflores,C04S,10:50 - 12:31,Sabatino,408,22
+202507,Surco,C05S,10:50 - 12:31,Sabatino,209,23
+202507,Lima Centro,C05S,08:55 - 10:36,Sabatino,103,23
+202507,San Miguel,C06S,10:50 - 12:31,Sabatino,503,19
+202507,Surco,C06S,08:55 - 10:36,Sabatino,301,22
+202507,San Miguel,K01S,08:55 - 10:36,Sabatino,502,18
+202507,San Miguel,K01S,10:50 - 12:31,Sabatino,202,19
+202507,La Molina,K01S,10:50 - 12:31,Sabatino,301,20
+202507,Lima Norte Satélite,K01S,10:50 - 12:31,Sabatino,201,20
+202507,Surco,K01S,10:50 - 12:31,Sabatino,104,20
+202507,Chimbote,K01S,10:50 - 12:31,Sabatino,102,17
+202507,Surco,K01S,08:55 - 10:36,Sabatino,205,23
+202507,Miraflores,K01S,10:50 - 12:31,Sabatino,201,15
+202507,Lima Centro,K01S,10:50 - 12:31,Sabatino,204,18
+202507,Lima Norte Satélite,K02S,08:55 - 10:36,Sabatino,105,20
+202507,Lima Norte Satélite,K02S,10:50 - 12:31,Sabatino,102,20
+202507,La Molina,K02S,10:50 - 12:31,Sabatino,312,20
+202507,San Miguel,K02S,08:55 - 10:36,Sabatino,202,19
+202507,San Miguel,K02S,10:50 - 12:31,Sabatino,406,19
+202507,Chimbote,K02S,10:50 - 12:31,Sabatino,201,13
+202507,Lima Centro,K02S,10:50 - 12:31,Sabatino,301,23
+202507,Miraflores,K02S,10:50 - 12:31,Sabatino,414,17
+202507,Iquitos,K02S,08:55 - 10:36,Sabatino,202,23
+202507,Pucallpa,K02S,08:55 - 10:36,Sabatino,205,14
+202507,Surco,K02S,10:50 - 12:31,Sabatino,203,22
+202507,Surco,K02S,08:55 - 10:36,Sabatino,203,22
+202507,Lima Norte Satélite,K03S,10:50 - 12:31,Sabatino,204,20
+202507,San Miguel,K03S,10:50 - 12:31,Sabatino,403,19
+202507,La Molina,K03S,10:50 - 12:31,Sabatino,313,19
+202507,Surco,K03S,08:55 - 10:36,Sabatino,204,23
+202507,Lima Centro,K03S,10:50 - 12:31,Sabatino,302,23
+202507,San Miguel,K04S,10:50 - 12:31,Sabatino,405,20
+202507,Lima Norte Satélite,K04S,08:55 - 10:36,Sabatino,106,20
+202507,Surco,K04S,08:55 - 10:36,Sabatino,209,23
+202507,Lima Centro,K04S,08:55 - 10:36,Sabatino,204,18
+202507,San Miguel,K05S,10:50 - 12:31,Sabatino,402,20
+202507,La Molina,K05S,08:55 - 10:36,Sabatino,301,20
+202507,Lima Centro,K05S,10:50 - 12:31,Sabatino,202,19
+202507,Miraflores,K05S,10:50 - 12:31,Sabatino,302,15
+202507,La Molina,K06S,08:55 - 10:36,Sabatino,302,20
+202507,Miraflores,K06S,10:50 - 12:31,Sabatino,410,19
+202507,Lima Centro,K06S,08:55 - 10:36,Sabatino,308,19
+202507,La Molina,Y01S,12:45 - 14:26,Sabatino,303,22
+202507,Lima Centro,Y01S,08:55 - 10:36,Sabatino,302,23
+202507,Surco,Y01S,08:55 - 10:36,Sabatino,307,23
+202507,San Miguel,Y02S,10:50 - 12:31,Sabatino,606,18
+202507,San Miguel,JR1SP,08:55 - 10:36,Sabatino,507,20
+202507,Lima Norte Satélite,JR1SP,10:50 - 12:31,Sabatino,303,23
+202507,San Miguel,JR1SP,10:50 - 12:31,Sabatino,604,20
+202507,La Molina,JR1SP,08:55 - 10:36,Sabatino,303,22
+202507,La Molina,JR1SP,10:50 - 12:31,Sabatino,406,22
+202507,Lima Norte Satélite,JR1SP,08:55 - 10:36,Sabatino,410,23
+202507,Surco,JR1SP,10:50 - 12:31,Sabatino,204,23
+202507,Chimbote,JR1SP,10:50 - 12:31,Sabatino,202,16
+202507,Surco,JR1SP,08:55 - 10:36,Sabatino,310,23
+202507,Miraflores,JR1SP,10:50 - 12:31,Sabatino,504,23
+202507,Iquitos,JR1SP,08:55 - 10:36,Sabatino,201,23
+202507,Lima Centro,JR1SP,08:55 - 10:36,Sabatino,605,23
+202507,Lima Centro,JR1SP,10:50 - 12:31,Sabatino,403,23
+202507,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,322,15
+202507,Lima Norte Satélite,JR2SP,08:55 - 10:36,Sabatino,310,23
+202507,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,323,16
+202507,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,324,16
+202507,La Molina,JR2SP,10:50 - 12:31,Sabatino,S305,23
+202507,San Miguel,JR2SP,10:50 - 12:31,Sabatino,610,20
+202507,La Molina,JR2SP,08:55 - 10:36,Sabatino,305,21
+202507,San Miguel,JR2SP,08:55 - 10:36,Sabatino,406,19
+202507,Surco,JR2SP,08:55 - 10:36,Sabatino,313,23
+202507,Surco,JR2SP,14:40 - 16:21,Sabatino,203,22
+202507,Chimbote,JR2SP,10:50 - 12:31,Sabatino,404,18
+202507,Surco,JR2SP,10:50 - 12:31,Sabatino,305,23
+202507,Lima Centro,JR2SP,10:50 - 12:31,Sabatino,304,23
+202507,Lima Centro,JR2SP,08:55 - 10:36,Sabatino,311,23
+202507,Iquitos,JR2SP,08:55 - 10:36,Sabatino,302,23
+202507,Miraflores,JR2SP,10:50 - 12:31,Sabatino,411,22
+202507,San Miguel,JR3SP,10:50 - 12:31,Sabatino,607,20
+202507,Lima Norte Satélite,JR3SP,08:55 - 10:36,Sabatino,420,19
+202507,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,301,23
+202507,Miraflores,JR3SP,10:50 - 12:31,Sabatino,305,15
+202507,Surco,JR3SP,10:50 - 12:31,Sabatino,303,22
+202507,Lima Centro,JR3SP,10:50 - 12:31,Sabatino,608,18
+202507,Lima Centro,JR3SP,08:55 - 10:36,Sabatino,705,21
+202507,Lima Norte Satélite,JR4SP,10:50 - 12:31,Sabatino,405,17
+202507,Lima Norte Satélite,JR4SP,08:55 - 10:36,Sabatino,305,20
+202507,San Miguel,JR4SP,10:50 - 12:31,Sabatino,504,20
+202507,La Molina,JR4SP,08:55 - 10:36,Sabatino,306,22
+202507,Lima Centro,JR4SP,10:50 - 12:31,Sabatino,103,23
+202507,Surco,JR4SP,08:55 - 10:36,Sabatino,306,23
+202507,Miraflores,JR4SP,10:50 - 12:31,Sabatino,301,15
+202507,La Molina,JR5SP,10:50 - 12:31,Sabatino,412,20
+202507,San Miguel,JR5SP,10:50 - 12:31,Sabatino,608,19
+202507,Lima Norte Satélite,JR5SP,08:55 - 10:36,Sabatino,311,23
+202507,Lima Norte Satélite,JR5SP,10:50 - 12:31,Sabatino,302,23
+202507,Surco,JR5SP,10:50 - 12:31,Sabatino,403,22
+202507,Miraflores,JR5SP,10:50 - 12:31,Sabatino,406,23
+202507,Lima Centro,JR5SP,10:50 - 12:31,Sabatino,406,23
+202507,Lima Norte Satélite,JR6SP,08:55 - 10:36,Sabatino,318,14
+202507,Lima Norte Satélite,JR6SP,14:40 - 16:21,Sabatino,105,20
+202507,Lima Norte Satélite,JR6SP,10:50 - 12:31,Sabatino,416,17
+202507,San Miguel,JR6SP,10:50 - 12:31,Sabatino,701,19
+202507,Surco,JR6SP,10:50 - 12:31,Sabatino,201,20
+202507,Lima Centro,JR6SP,12:45 - 14:26,Sabatino,201,19
+202507,Lima Centro,JR6SP,08:55 - 10:36,Sabatino,708,23
+202507,Iquitos,JR6SP,08:55 - 10:36,Sabatino,404,23
+202507,Miraflores,JR6SP,10:50 - 12:31,Sabatino,609,17
+202507,Surco,JR6SP,08:55 - 10:36,Sabatino,308,23
+202507,San Miguel,JR7SP,10:50 - 12:31,Sabatino,703,19
+202507,La Molina,JR7SP,08:55 - 10:36,Sabatino,307,20
+202507,San Miguel,JR7SP,08:55 - 10:36,Sabatino,603,19
+202507,Lima Norte Satélite,JR7SP,10:50 - 12:31,Sabatino,417,14
+202507,Lima Norte Satélite,JR7SP,08:55 - 10:36,Sabatino,321,15
+202507,Surco,JR7SP,08:55 - 10:36,Sabatino,311,23
+202507,Iquitos,JR7SP,12:45 - 14:26,Sabatino,301,23
+202507,Miraflores,JR7SP,10:50 - 12:31,Sabatino,702,22
+202507,Lima Centro,JR7SP,10:50 - 12:31,Sabatino,503,23
+202507,Lima Norte Satélite,JR8SP,10:50 - 12:31,Sabatino,418,19
+202507,La Molina,JR8SP,08:55 - 10:36,Sabatino,308,22
+202507,San Miguel,JR8SP,08:55 - 10:36,Sabatino,604,20
+202507,San Miguel,JR8SP,10:50 - 12:31,Sabatino,707,20
+202507,Lima Norte Satélite,JR8SP,08:55 - 10:36,Sabatino,322,15
+202507,Surco,JR8SP,10:50 - 12:31,Sabatino,211,23
+202507,Lima Centro,JR8SP,08:55 - 10:36,Sabatino,709,20
+202507,San Miguel,PT1SP,10:50 - 12:31,Sabatino,708,19
+202507,La Molina,PT1SP,08:55 - 10:36,Sabatino,310,19
+202507,Lima Norte Satélite,PT1SP,08:55 - 10:36,Sabatino,323,16
+202507,Surco,PT1SP,10:50 - 12:31,Sabatino,302,22
+202507,Lima Centro,PT1SP,10:50 - 12:31,Sabatino,708,23
+202507,Miraflores,PT1SP,10:50 - 12:31,Sabatino,703,22
+202507,Iquitos,PT2SP,12:45 - 14:26,Sabatino,302,20
+202507,Surco,PT2SP,12:45 - 14:26,Sabatino,307,20
+202507,Lima Norte Satélite,PT2SP,10:50 - 12:31,Sabatino,419,19
+202507,La Molina,PT2SP,08:55 - 10:36,Sabatino,311,19
+202507,Lima Norte Satélite,PT2SP,08:55 - 10:36,Sabatino,324,16
+202507,Lima Centro,PT2SP,10:50 - 12:31,Sabatino,307,23
+202507,Lima Norte Satélite,PT3SP,08:55 - 10:36,Sabatino,325,16
+202507,Lima Norte Satélite,PT3SP,10:50 - 12:31,Sabatino,420,19
+202507,Surco,PT3SP,08:55 - 10:36,Sabatino,314,23
+202507,Lima Centro,PT3SP,10:50 - 12:31,Sabatino,401,23
+202507,Iquitos,PT3SP,12:45 - 14:26,Sabatino,201,23
+202507,Miraflores,PT3SP,10:50 - 12:31,Sabatino,709,17
+202507,Lima Norte Satélite,PT4SP,10:50 - 12:31,Sabatino,317,14
+202507,Lima Norte Satélite,PT4SP,08:55 - 10:36,Sabatino,405,17
+202507,San Miguel,PT4SP,10:50 - 12:31,Sabatino,709,19
+202507,La Molina,PT4SP,08:55 - 10:36,Sabatino,312,20
+202507,Surco,PT4SP,14:40 - 16:21,Sabatino,204,23
+202507,Lima Centro,PT4SP,10:50 - 12:31,Sabatino,402,23
+202507,La Molina,PT5SP,08:55 - 10:36,Sabatino,313,19
+202507,San Miguel,PT5SP,08:55 - 10:36,Sabatino,703,19
+202507,Lima Norte Satélite,PT5SP,14:40 - 16:21,Sabatino,102,20
+202507,Lima Norte Satélite,PT5SP,10:50 - 12:31,Sabatino,325,16
+202507,Surco,PT5SP,08:55 - 10:36,Sabatino,309,23
+202507,Lima Centro,PT5SP,10:50 - 12:31,Sabatino,407,20
+202507,Miraflores,PT5SP,10:50 - 12:31,Sabatino,705,19
+202507,Lima Norte Satélite,PT6SP,10:50 - 12:31,Sabatino,415,14
+202507,Lima Norte Satélite,PT6SP,14:40 - 16:21,Sabatino,103,20
+202507,La Molina,PT6SP,08:55 - 10:36,Sabatino,402,20
+202507,Surco,PT6SP,10:50 - 12:31,Sabatino,301,22
+202507,Lima Centro,PT6SP,08:55 - 10:36,Sabatino,505,23
+202507,La Molina,T01SP,08:55 - 10:36,Sabatino,403,22
+202507,Lima Norte Satélite,T01SP,08:55 - 10:36,Sabatino,417,14
+202507,Lima Norte Satélite,T02SP,08:55 - 10:36,Sabatino,419,19
+202507,Surco,T02SP,12:45 - 14:26,Sabatino,308,20
+202507,Lima Norte Satélite,T03SP,07:00 - 08:41,Sabatino,101,20
+202507,Lima Norte Satélite,T04SP,10:50 - 12:31,Sabatino,308,23
+202507,La Molina,T04SP,12:45 - 14:26,Sabatino,310,19
+202507,Lima Norte Satélite,T05SP,10:50 - 12:31,Sabatino,310,23
+202507,Surco,T05SP,08:55 - 10:36,Sabatino,404,23
+202507,Pucallpa,JR1SP,10:50 - 12:31,Sabatino,203,20
+202507,Pucallpa,JR2SP,08:55 - 10:36,Sabatino,204,23
+202507,Ica,JR2SP,14:40 - 16:21,Sabatino,106,19
+202507,Ica,K03S,10:50 - 12:31,Sabatino,108,12
+202507,Ica,JR3SP,14:40 - 16:21,Sabatino,107,19
+202507,Ica,JR6SP,14:40 - 16:21,Sabatino,102,15
+202507,Ica,JR7SP,14:40 - 16:21,Sabatino,103,17
+202507,Ica,JR8SP,14:40 - 16:21,Sabatino,101,15
+202507,Ica,K02S,14:40 - 16:21,Sabatino,104,13
+202507,Ica,JR1SP,14:40 - 16:21,Sabatino,204,19
+202507,Lima Norte Satélite,PK2SP,08:55 - 10:36,Sabatino,103,15
+202507,Surco,PK3SP,12:45 - 14:26,Sabatino,103,15
+202507,Chincha,JR1SP,10:50 - 12:31,Sabatino,202,23
+202507,La Molina,JR3SP,12:45 - 14:26,Sabatino,306,22
+202507,La Molina,JR6SP,10:50 - 12:31,Sabatino,411,19
+202507,San Miguel,B00BP,08:55 - 12:31,Sabatino,1403,20
+202507,Lima Norte Satélite,B00BP,12:45 - 16:21,Sabatino,203,20
+202507,Lima Centro,B00BP,08:55 - 12:31,Sabatino,501,26
+202507,Surco,B00BP,10:50 - 14:26,Sabatino,406,24
+202507,Lima Norte Satélite,B01BP,12:45 - 16:21,Sabatino,302,27
+202507,San Miguel,B01BP,08:55 - 12:31,Sabatino,1404,19
+202507,Surco,B01BP,12:45 - 16:21,Sabatino,306,25
+202507,Lima Centro,B01BP,08:55 - 12:31,Sabatino,607,23
+202507,Lima Norte Satélite,B02BP,12:45 - 16:21,Sabatino,303,25
+202507,Lima Norte Satélite,B05BP,12:45 - 16:21,Sabatino,305,20
+202507,La Molina,B05BP,10:50 - 14:26,Sabatino,504,23
+202507,Lima Centro,B05BP,08:55 - 12:31,Sabatino,805,18
+202507,La Molina,B06BP,10:50 - 14:26,Sabatino,506,22
+202507,San Miguel,B06BP,08:55 - 12:31,Sabatino,810,20
+202507,Lima Norte Satélite,B08BP,12:45 - 16:21,Sabatino,308,23
+202507,Surco,B11BP,12:45 - 16:21,Sabatino,208,24
+202507,Lima Norte Satélite,I02BP,12:45 - 16:21,Sabatino,315,25
+202507,La Molina,JR7SP,10:50 - 12:31,Sabatino,S207,21
+202507,La Molina,PT3SP,10:50 - 12:31,Sabatino,S307,21
+202507,Lima Centro,B06BP,08:55 - 12:31,Sabatino,310,16
+202507,Lima Centro,B07BP,08:55 - 12:31,Sabatino,806,21
+202507,Miraflores,B05BP,08:55 - 12:31,Sabatino,606,22
+202507,Miraflores,B08BP,08:55 - 12:31,Sabatino,603,22
+202507,San Miguel,KN4SP,08:55 - 10:36,Sabatino,201,15
+202507,San Miguel,KN3SP,10:50 - 12:31,Sabatino,401,15
+202507,San Miguel,PT6SP,10:50 - 12:31,Sabatino,508,19
+202507,Surco,K06S,12:45 - 14:26,Sabatino,211,23
+202507,Surco,B05BP,10:50 - 14:26,Sabatino,207,23
+202507,Lima Norte Satélite,KN1SP,12:45 - 14:26,Sabatino,101,15
+202508,Pucallpa,K01S,08:55 - 10:36,Sabatino,201,19
+202508,Ica,JR2SP,14:40 - 16:21,Sabatino,201,15
+202508,Ica,JR1SP,14:40 - 16:21,Sabatino,105,20
+202508,Ica,JR6SP,14:40 - 16:21,Sabatino,108,12
+202508,Lima Centro,KN2SP,08:55 - 10:36,Sabatino,101,15
+202508,San Miguel,KN2SP,08:55 - 10:36,Sabatino,303,15
+202508,La Molina,KN4SP,08:55 - 10:36,Sabatino,309,15
+202508,Lima Centro,KN4SP,10:50 - 12:31,Sabatino,101,15
+202508,Chimbote,KN4SP,08:55 - 10:36,Sabatino,101,15
+202508,Miraflores,PK2SP,10:50 - 12:31,Sabatino,203,15
+202508,La Molina,PK3SP,12:45 - 14:26,Sabatino,302,15
+202508,San Miguel,PK3SP,08:55 - 10:36,Sabatino,301,15
+202508,San Miguel,PK4SP,08:55 - 10:36,Sabatino,302,15
+202508,La Molina,PK4SP,08:55 - 10:36,Sabatino,304,15
+202508,Lima Centro,PK4SP,08:55 - 10:36,Sabatino,202,15
+202508,Iquitos,PK4SP,08:55 - 10:36,Sabatino,203,15
+202508,Lima Centro,K01S,08:55 - 10:36,Sabatino,306,20
+202508,Miraflores,K01S,10:50 - 12:31,Sabatino,407,20
+202508,Miraflores,K01S,08:55 - 10:36,Sabatino,204,15
+202508,Iquitos,K01S,12:45 - 14:26,Sabatino,203,20
+202508,La Molina,K01S,10:50 - 12:31,Sabatino,201,20
+202508,San Miguel,K01S,08:55 - 10:36,Sabatino,402,20
+202508,San Miguel,K01S,10:50 - 12:31,Sabatino,507,20
+202508,San Miguel,K02S,08:55 - 10:36,Sabatino,404,18
+202508,San Miguel,K02S,10:50 - 12:31,Sabatino,408,20
+202508,La Molina,K02S,10:50 - 12:31,Sabatino,202,20
+202508,Iquitos,K02S,08:55 - 10:36,Sabatino,301,20
+202508,Miraflores,K02S,08:55 - 10:36,Sabatino,404,15
+202508,Miraflores,K02S,10:50 - 12:31,Sabatino,604,20
+202508,Lima Centro,K02S,08:55 - 10:36,Sabatino,407,20
+202508,Chimbote,K02S,08:55 - 10:36,Sabatino,201,13
+202508,Miraflores,K03S,10:50 - 12:31,Sabatino,507,20
+202508,Lima Centro,K03S,08:55 - 10:36,Sabatino,408,16
+202508,Miraflores,K03S,08:55 - 10:36,Sabatino,205,15
+202508,La Molina,K03S,10:50 - 12:31,Sabatino,302,20
+202508,La Molina,K03S,08:55 - 10:36,Sabatino,401,20
+202508,San Miguel,K03S,10:50 - 12:31,Sabatino,502,18
+202508,San Miguel,K04S,10:50 - 12:31,Sabatino,505,19
+202508,San Miguel,K04S,12:45 - 14:26,Sabatino,402,20
+202508,La Molina,K04S,08:55 - 10:36,Sabatino,404,20
+202508,La Molina,K04S,10:50 - 12:31,Sabatino,303,20
+202508,San Miguel,K04S,08:55 - 10:36,Sabatino,405,20
+202508,Lima Centro,K04S,08:55 - 10:36,Sabatino,509,17
+202508,Miraflores,K04S,10:50 - 12:31,Sabatino,409,20
+202508,Lima Centro,K04S,10:50 - 12:31,Sabatino,305,20
+202508,Chimbote,K04S,08:55 - 10:36,Sabatino,204,18
+202508,Pucallpa,K05S,08:55 - 10:36,Sabatino,206,15
+202508,Iquitos,K05S,10:50 - 12:31,Sabatino,203,20
+202508,Lima Centro,K05S,08:55 - 10:36,Sabatino,510,20
+202508,Miraflores,K05S,10:50 - 12:31,Sabatino,402,15
+202508,San Miguel,K05S,08:55 - 10:36,Sabatino,407,19
+202508,La Molina,K05S,08:55 - 10:36,Sabatino,405,20
+202508,La Molina,K06S,10:50 - 12:31,Sabatino,304,20
+202508,San Miguel,K06S,08:55 - 10:36,Sabatino,408,20
+202508,San Miguel,K06S,10:50 - 12:31,Sabatino,601,19
+202508,Miraflores,K06S,10:50 - 12:31,Sabatino,403,15
+202508,Lima Centro,K06S,08:55 - 10:36,Sabatino,305,20
+202508,Lima Centro,C01S,08:55 - 10:36,Sabatino,307,20
+202508,Miraflores,C01S,10:50 - 12:31,Sabatino,404,15
+202508,Miraflores,C01S,08:55 - 10:36,Sabatino,301,15
+202508,Iquitos,C01S,10:50 - 12:31,Sabatino,301,20
+202508,San Miguel,C01S,08:55 - 10:36,Sabatino,501,19
+202508,San Miguel,C01S,10:50 - 12:31,Sabatino,506,18
+202508,La Molina,C01S,10:50 - 12:31,Sabatino,305,20
+202508,La Molina,C02S,10:50 - 12:31,Sabatino,306,20
+202508,San Miguel,C02S,08:55 - 10:36,Sabatino,503,19
+202508,San Miguel,C02S,10:50 - 12:31,Sabatino,509,19
+202508,Miraflores,C02S,10:50 - 12:31,Sabatino,405,15
+202508,Lima Centro,C02S,10:50 - 12:31,Sabatino,306,20
+202508,Lima Centro,C03S,08:55 - 10:36,Sabatino,301,20
+202508,Miraflores,C03S,08:55 - 10:36,Sabatino,405,15
+202508,La Molina,C03S,14:40 - 16:21,Sabatino,201,20
+202508,La Molina,C04S,10:50 - 12:31,Sabatino,307,20
+202508,San Miguel,C04S,08:55 - 10:36,Sabatino,504,20
+202508,San Miguel,C04S,10:50 - 12:31,Sabatino,602,18
+202508,Miraflores,C04S,08:55 - 10:36,Sabatino,303,15
+202508,Lima Centro,C04S,08:55 - 10:36,Sabatino,303,20
+202508,Lima Centro,C04S,10:50 - 12:31,Sabatino,308,19
+202508,Lima Centro,C05S,08:55 - 10:36,Sabatino,304,20
+202508,San Miguel,C05S,10:50 - 12:31,Sabatino,511,19
+202508,La Molina,C05S,10:50 - 12:31,Sabatino,308,20
+202508,La Molina,C06S,08:55 - 10:36,Sabatino,406,20
+202508,San Miguel,C06S,08:55 - 10:36,Sabatino,505,19
+202508,Lima Centro,C06S,10:50 - 12:31,Sabatino,509,17
+202508,Miraflores,C06S,10:50 - 12:31,Sabatino,204,15
+202508,Miraflores,Y01S,08:55 - 10:36,Sabatino,304,15
+202508,Lima Centro,Y01S,10:50 - 12:31,Sabatino,408,16
+202508,Chimbote,Y01S,08:55 - 10:36,Sabatino,202,16
+202508,Lima Centro,Y02S,10:50 - 12:31,Sabatino,309,13
+202508,Miraflores,Y02S,10:50 - 12:31,Sabatino,304,15
+202508,La Molina,Y02S,12:45 - 14:26,Sabatino,201,20
+202508,La Molina,Y03S,10:50 - 12:31,Sabatino,309,20
+202508,Lima Centro,Y03S,08:55 - 10:36,Sabatino,503,20
+202508,Lima Centro,Y04S,08:55 - 10:36,Sabatino,402,20
+202508,La Molina,Y04S,08:55 - 10:36,Sabatino,407,20
+202508,San Miguel,Y04S,08:55 - 10:36,Sabatino,508,19
+202508,Lima Centro,Y05S,10:50 - 12:31,Sabatino,510,20
+202508,San Miguel,Y06S,08:55 - 10:36,Sabatino,509,19
+202508,San Miguel,JR1SP,10:50 - 12:31,Sabatino,801,19
+202508,San Miguel,JR1SP,08:55 - 10:36,Sabatino,601,19
+202508,La Molina,JR1SP,10:50 - 12:31,Sabatino,310,19
+202508,La Molina,JR1SP,12:45 - 14:26,Sabatino,202,20
+202508,Lima Centro,JR1SP,08:55 - 10:36,Sabatino,608,18
+202508,Lima Centro,JR1SP,10:50 - 12:31,Sabatino,609,20
+202508,Miraflores,JR1SP,10:50 - 12:31,Sabatino,706,20
+202508,Iquitos,JR1SP,08:55 - 10:36,Sabatino,303,22
+202508,Miraflores,JR2SP,10:50 - 12:31,Sabatino,505,20
+202508,Lima Centro,JR2SP,08:55 - 10:36,Sabatino,609,20
+202508,Lima Centro,JR2SP,10:50 - 12:31,Sabatino,705,20
+202508,Pucallpa,JR2SP,10:50 - 12:31,Sabatino,202,20
+202508,Chimbote,JR2SP,08:55 - 10:36,Sabatino,203,18
+202508,Iquitos,JR2SP,10:50 - 12:31,Sabatino,402,20
+202508,La Molina,JR2SP,08:55 - 10:36,Sabatino,408,20
+202508,La Molina,JR2SP,10:50 - 12:31,Sabatino,311,19
+202508,San Miguel,JR2SP,10:50 - 12:31,Sabatino,809,19
+202508,San Miguel,JR2SP,08:55 - 10:36,Sabatino,602,18
+202508,San Miguel,JR3SP,10:50 - 12:31,Sabatino,603,19
+202508,La Molina,JR3SP,08:55 - 10:36,Sabatino,409,20
+202508,La Molina,JR3SP,10:50 - 12:31,Sabatino,401,20
+202508,Chimbote,JR3SP,10:50 - 12:31,Sabatino,303,18
+202508,Chimbote,JR3SP,08:55 - 10:36,Sabatino,403,18
+202508,Lima Centro,JR3SP,08:55 - 10:36,Sabatino,706,20
+202508,Iquitos,JR3SP,10:50 - 12:31,Sabatino,202,20
+202508,Miraflores,JR3SP,10:50 - 12:31,Sabatino,602,20
+202508,Lima Centro,JR3SP,10:50 - 12:31,Sabatino,706,20
+202508,Miraflores,JR4SP,10:50 - 12:31,Sabatino,704,20
+202508,Lima Centro,JR4SP,10:50 - 12:31,Sabatino,709,20
+202508,Lima Centro,JR4SP,08:55 - 10:36,Sabatino,403,20
+202508,Chimbote,JR4SP,10:50 - 12:31,Sabatino,203,18
+202508,Chimbote,JR4SP,08:55 - 10:36,Sabatino,402,16
+202508,Iquitos,JR4SP,10:50 - 12:31,Sabatino,404,20
+202508,La Molina,JR4SP,08:55 - 10:36,Sabatino,410,19
+202508,La Molina,JR4SP,12:45 - 14:26,Sabatino,304,20
+202508,San Miguel,JR4SP,08:55 - 10:36,Sabatino,605,19
+202508,La Molina,JR4SP,10:50 - 12:31,Sabatino,403,20
+202508,San Miguel,JR4SP,12:45 - 14:26,Sabatino,202,19
+202508,San Miguel,JR4SP,10:50 - 12:31,Sabatino,605,19
+202508,San Miguel,JR5SP,10:50 - 12:31,Sabatino,609,19
+202508,San Miguel,JR5SP,08:55 - 10:36,Sabatino,606,18
+202508,La Molina,JR5SP,10:50 - 12:31,Sabatino,404,20
+202508,La Molina,JR5SP,08:55 - 10:36,Sabatino,411,19
+202508,Iquitos,JR5SP,10:50 - 12:31,Sabatino,302,20
+202508,Pucallpa,JR5SP,08:55 - 10:36,Sabatino,202,20
+202508,Chimbote,JR5SP,08:55 - 10:36,Sabatino,303,18
+202508,Pucallpa,JR5SP,10:50 - 12:31,Sabatino,205,14
+202508,Lima Centro,JR5SP,10:50 - 12:31,Sabatino,201,19
+202508,Lima Centro,JR5SP,08:55 - 10:36,Sabatino,404,20
+202508,Miraflores,JR5SP,10:50 - 12:31,Sabatino,605,19
+202508,Lima Centro,JR6SP,10:50 - 12:31,Sabatino,303,20
+202508,Miraflores,JR6SP,10:50 - 12:31,Sabatino,607,18
+202508,Lima Centro,JR6SP,08:55 - 10:36,Sabatino,405,20
+202508,Pucallpa,JR6SP,10:50 - 12:31,Sabatino,206,15
+202508,Chimbote,JR6SP,08:55 - 10:36,Sabatino,302,16
+202508,Iquitos,JR6SP,08:55 - 10:36,Sabatino,402,20
+202508,La Molina,JR6SP,08:55 - 10:36,Sabatino,412,20
+202508,San Miguel,JR6SP,08:55 - 10:36,Sabatino,607,20
+202508,San Miguel,JR6SP,10:50 - 12:31,Sabatino,611,19
+202508,San Miguel,JR7SP,10:50 - 12:31,Sabatino,702,18
+202508,San Miguel,JR7SP,08:55 - 10:36,Sabatino,608,19
+202508,La Molina,JR7SP,08:55 - 10:36,Sabatino,413,19
+202508,La Molina,JR7SP,10:50 - 12:31,Sabatino,405,20
+202508,Chimbote,JR7SP,10:50 - 12:31,Sabatino,302,16
+202508,Chimbote,JR7SP,08:55 - 10:36,Sabatino,205,12
+202508,Lima Centro,JR7SP,08:55 - 10:36,Sabatino,406,20
+202508,Pucallpa,JR7SP,10:50 - 12:31,Sabatino,204,20
+202508,Miraflores,JR7SP,10:50 - 12:31,Sabatino,608,18
+202508,Iquitos,JR7SP,10:50 - 12:31,Sabatino,201,20
+202508,Miraflores,JR7SP,08:55 - 10:36,Sabatino,305,15
+202508,Miraflores,JR8SP,08:55 - 10:36,Sabatino,401,15
+202508,Miraflores,JR8SP,10:50 - 12:31,Sabatino,205,15
+202508,Lima Centro,JR8SP,08:55 - 10:36,Sabatino,601,20
+202508,Lima Centro,JR8SP,10:50 - 12:31,Sabatino,311,20
+202508,Chimbote,JR8SP,10:50 - 12:31,Sabatino,304,18
+202508,Iquitos,JR8SP,10:50 - 12:31,Sabatino,303,20
+202508,La Molina,JR8SP,08:55 - 10:36,Sabatino,414,20
+202508,San Miguel,JR8SP,10:50 - 12:31,Sabatino,704,20
+202508,La Molina,PT1SP,10:50 - 12:31,Sabatino,407,20
+202508,Iquitos,PT1SP,12:45 - 14:26,Sabatino,401,20
+202508,Miraflores,PT1SP,10:50 - 12:31,Sabatino,412,18
+202508,Lima Centro,PT1SP,10:50 - 12:31,Sabatino,404,20
+202508,Miraflores,PT2SP,08:55 - 10:36,Sabatino,402,15
+202508,Miraflores,PT2SP,10:50 - 12:31,Sabatino,707,18
+202508,Lima Centro,PT2SP,08:55 - 10:36,Sabatino,602,20
+202508,Lima Centro,PT2SP,10:50 - 12:31,Sabatino,405,20
+202508,Chimbote,PT2SP,08:55 - 10:36,Sabatino,304,18
+202508,San Miguel,PT2SP,10:50 - 12:31,Sabatino,706,18
+202508,San Miguel,PT2SP,08:55 - 10:36,Sabatino,609,19
+202508,La Molina,PT2SP,10:50 - 12:31,Sabatino,408,20
+202508,San Miguel,PT3SP,10:50 - 12:31,Sabatino,710,20
+202508,Chimbote,PT3SP,08:55 - 10:36,Sabatino,404,18
+202508,Lima Centro,PT3SP,10:50 - 12:31,Sabatino,601,20
+202508,Miraflores,PT3SP,10:50 - 12:31,Sabatino,506,20
+202508,Miraflores,PT4SP,10:50 - 12:31,Sabatino,601,20
+202508,Lima Centro,PT4SP,12:45 - 14:26,Sabatino,202,19
+202508,San Miguel,PT4SP,10:50 - 12:31,Sabatino,711,19
+202508,La Molina,PT4SP,10:50 - 12:31,Sabatino,409,20
+202508,San Miguel,PT4SP,08:55 - 10:36,Sabatino,610,20
+202508,Lima Centro,PT5SP,10:50 - 12:31,Sabatino,602,20
+202508,Miraflores,PT5SP,10:50 - 12:31,Sabatino,701,20
+202508,Chimbote,PT5SP,10:50 - 12:31,Sabatino,204,18
+202508,Iquitos,PT5SP,10:50 - 12:31,Sabatino,403,20
+202508,Chimbote,PT6SP,10:50 - 12:31,Sabatino,205,12
+202508,Iquitos,PT6SP,12:45 - 14:26,Sabatino,403,20
+202508,Lima Centro,PT6SP,10:50 - 12:31,Sabatino,603,20
+202508,San Miguel,PT6SP,08:55 - 10:36,Sabatino,611,19
+202508,Lima Centro,T01SP,08:55 - 10:36,Sabatino,603,20
+202508,Iquitos,T02SP,12:45 - 14:26,Sabatino,402,20
+202508,Lima Centro,T02SP,12:45 - 14:26,Sabatino,203,20
+202508,La Molina,T02SP,10:50 - 12:31,Sabatino,410,19
+202508,San Miguel,T03SP,08:55 - 10:36,Sabatino,702,18
+202508,Lima Centro,T03SP,08:55 - 10:36,Sabatino,604,20
+202508,Iquitos,T04SP,08:55 - 10:36,Sabatino,403,20
+202508,Lima Centro,B00BP,10:50 - 14:26,Sabatino,505,25
+202508,Miraflores,B00BP,08:55 - 12:31,Sabatino,802,22
+202508,Miraflores,B01BP,08:55 - 12:31,Sabatino,803,22
+202508,Lima Centro,B01BP,10:50 - 14:26,Sabatino,605,25
+202508,San Miguel,B01BP,07:00 - 10:36,Sabatino,704,20
+202508,La Molina,B01BP,10:50 - 14:26,Sabatino,414,21
+202508,Lima Centro,B02BP,10:50 - 14:26,Sabatino,604,25
+202508,Lima Centro,B03BP,08:55 - 12:31,Sabatino,704,25
+202508,La Molina,B03BP,08:55 - 12:31,Sabatino,S306,25
+202508,San Miguel,B03BP,08:55 - 12:31,Sabatino,1301,19
+202508,Lima Centro,B04BP,12:45 - 16:21,Sabatino,304,25
+202508,Lima Centro,B05BP,08:55 - 12:31,Sabatino,701,25
+202508,San Miguel,B05BP,08:55 - 12:31,Sabatino,1302,18
+202508,San Miguel,B06BP,07:00 - 10:36,Sabatino,706,18
+202508,Lima Centro,B06BP,08:55 - 12:31,Sabatino,702,25
+202508,Miraflores,I03BP,08:55 - 12:31,Sabatino,805,19
+202508,Surco,B03BP,08:55 - 12:31,Sabatino,504,24
+202508,Surco,B05BP,12:45 - 16:21,Sabatino,205,25
+202508,Surco,C01S,10:50 - 12:31,Sabatino,307,20
+202508,Surco,C02S,10:50 - 12:31,Sabatino,309,20
+202508,Surco,K01S,10:50 - 12:31,Sabatino,103,20
+202508,Surco,K01S,08:55 - 10:36,Sabatino,202,20
+202508,Surco,K02S,08:55 - 10:36,Sabatino,207,20
+202508,Surco,K02S,10:50 - 12:31,Sabatino,202,20
+202508,Surco,K03S,08:55 - 10:36,Sabatino,210,20
+202508,Surco,K03S,10:50 - 12:31,Sabatino,210,20
+202508,Surco,K04S,10:50 - 12:31,Sabatino,304,20
+202508,Surco,K04S,08:55 - 10:36,Sabatino,302,20
+202508,Surco,K05S,08:55 - 10:36,Sabatino,303,20
+202508,Surco,K06S,08:55 - 10:36,Sabatino,304,20
+202508,Surco,KN1SP,08:55 - 10:36,Sabatino,103,15
+202508,Surco,KN2SP,08:55 - 10:36,Sabatino,104,15
+202508,Surco,KN3SP,12:45 - 14:26,Sabatino,102,15
+202508,Surco,KN4SP,12:45 - 14:26,Sabatino,101,15
+202508,Surco,C03S,10:50 - 12:31,Sabatino,310,20
+202508,Surco,C04S,10:50 - 12:31,Sabatino,313,20
+202508,Surco,C05S,12:45 - 14:26,Sabatino,210,20
+202508,Surco,JR1SP,08:55 - 10:36,Sabatino,401,20
+202508,Surco,JR1SP,10:50 - 12:31,Sabatino,401,20
+202508,Surco,JR2SP,10:50 - 12:31,Sabatino,402,20
+202508,Surco,JR2SP,08:55 - 10:36,Sabatino,402,20
+202508,Surco,JR3SP,08:55 - 10:36,Sabatino,403,20
+202508,Surco,JR3SP,10:50 - 12:31,Sabatino,404,20
+202508,Surco,JR4SP,10:50 - 12:31,Sabatino,205,20
+202508,Surco,JR4SP,08:55 - 10:36,Sabatino,406,20
+202508,Surco,JR4SP,14:40 - 16:21,Sabatino,207,20
+202508,Surco,JR5SP,10:50 - 12:31,Sabatino,206,20
+202508,Surco,JR5SP,08:55 - 10:36,Sabatino,201,20
+202508,Surco,JR6SP,10:50 - 12:31,Sabatino,208,20
+202508,Surco,JR6SP,08:55 - 10:36,Sabatino,206,20
+202508,Surco,JR7SP,10:50 - 12:31,Sabatino,306,20
+202508,Surco,JR7SP,08:55 - 10:36,Sabatino,208,20
+202508,Surco,JR8SP,12:45 - 14:26,Sabatino,303,20
+202508,Surco,PT1SP,10:50 - 12:31,Sabatino,308,20
+202508,Surco,PT1SP,08:55 - 10:36,Sabatino,211,20
+202508,Surco,PT2SP,10:50 - 12:31,Sabatino,311,20
+202508,Surco,PT3SP,10:50 - 12:31,Sabatino,312,20
+202508,Surco,PT4SP,10:50 - 12:31,Sabatino,314,20
+202508,Surco,PT5SP,08:55 - 10:36,Sabatino,305,20
+202508,Surco,PT6SP,08:55 - 10:36,Sabatino,312,20
+202508,Surco,T01SP,10:50 - 12:31,Sabatino,315,20
+202508,Surco,T02SP,12:45 - 14:26,Sabatino,304,20
+202508,Surco,T03SP,08:55 - 10:36,Sabatino,315,20
+202508,Surco,Y02S,12:45 - 14:26,Sabatino,301,20
+202508,Surco,Y03S,12:45 - 14:26,Sabatino,302,20
+202508,Lima Norte Satélite,B03BP,12:45 - 16:21,Sabatino,410,25
+202508,Lima Norte Satélite,B04BP,12:45 - 16:21,Sabatino,301,25
+202508,Lima Norte Satélite,B05BP,12:45 - 16:21,Sabatino,408,19
+202508,Lima Norte Satélite,B06BP,14:40 - 18:16,Sabatino,318,14
+202508,Lima Norte Satélite,B07BP,12:45 - 16:21,Sabatino,412,25
+202508,Lima Norte Satélite,B08BP,08:55 - 12:31,Sabatino,315,25
+202508,Lima Norte Satélite,B09BP,08:55 - 12:31,Sabatino,412,25
+202508,Lima Norte Satélite,B10BP,12:45 - 16:21,Sabatino,312,21
+202508,Lima Norte Satélite,B00BP,12:45 - 16:21,Sabatino,309,20
+202508,Lima Norte Satélite,B02BP,12:45 - 16:21,Sabatino,311,23
+202508,Lima Norte Satélite,C01S,08:55 - 10:36,Sabatino,204,20
+202508,Lima Norte Satélite,C02S,08:55 - 10:36,Sabatino,205,20
+202508,Lima Norte Satélite,C03S,16:35 - 18:16,Sabatino,102,20
+202508,Lima Norte Satélite,C03S,08:55 - 10:36,Sabatino,206,20
+202508,Lima Norte Satélite,C04S,07:00 - 08:41,Sabatino,102,20
+202508,Lima Norte Satélite,C04S,08:55 - 10:36,Sabatino,207,20
+202508,Lima Norte Satélite,C05S,08:55 - 10:36,Sabatino,304,18
+202508,Lima Norte Satélite,C06S,08:55 - 10:36,Sabatino,303,20
+202508,Lima Norte Satélite,JR1SP,08:55 - 10:36,Sabatino,309,20
+202508,Lima Norte Satélite,JR1SP,14:40 - 16:21,Sabatino,206,20
+202508,Lima Norte Satélite,JR1SP,10:50 - 12:31,Sabatino,203,20
+202508,Lima Norte Satélite,JR2SP,14:40 - 16:21,Sabatino,207,20
+202508,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,207,20
+202508,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,304,18
+202508,Lima Norte Satélite,JR2SP,08:55 - 10:36,Sabatino,312,20
+202508,Lima Norte Satélite,JR3SP,08:55 - 10:36,Sabatino,316,20
+202508,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,305,20
+202508,Lima Norte Satélite,JR3SP,14:40 - 16:21,Sabatino,313,20
+202508,Lima Norte Satélite,JR4SP,10:50 - 12:31,Sabatino,309,20
+202508,Lima Norte Satélite,JR4SP,14:40 - 16:21,Sabatino,306,20
+202508,Lima Norte Satélite,JR4SP,10:50 - 12:31,Sabatino,205,20
+202508,Lima Norte Satélite,JR4SP,08:55 - 10:36,Sabatino,102,20
+202508,Lima Norte Satélite,JR5SP,08:55 - 10:36,Sabatino,104,20
+202508,Lima Norte Satélite,JR5SP,16:35 - 18:16,Sabatino,103,20
+202508,Lima Norte Satélite,JR5SP,10:50 - 12:31,Sabatino,311,20
+202508,Lima Norte Satélite,JR5SP,14:40 - 16:21,Sabatino,307,17
+202508,Lima Norte Satélite,JR6SP,08:55 - 10:36,Sabatino,307,17
+202508,Lima Norte Satélite,JR6SP,10:50 - 12:31,Sabatino,318,14
+202508,Lima Norte Satélite,JR7SP,12:45 - 14:26,Sabatino,205,20
+202508,Lima Norte Satélite,JR7SP,16:35 - 18:16,Sabatino,104,20
+202508,Lima Norte Satélite,JR7SP,10:50 - 12:31,Sabatino,316,20
+202508,Lima Norte Satélite,JR7SP,07:00 - 08:41,Sabatino,103,20
+202508,Lima Norte Satélite,JR8SP,10:50 - 12:31,Sabatino,312,20
+202508,Lima Norte Satélite,JR8SP,08:55 - 10:36,Sabatino,302,20
+202508,Lima Norte Satélite,K01S,10:50 - 12:31,Sabatino,104,20
+202508,Lima Norte Satélite,K01S,14:40 - 16:21,Sabatino,101,20
+202508,Lima Norte Satélite,K02S,08:55 - 10:36,Sabatino,319,10
+202508,Lima Norte Satélite,K02S,10:50 - 12:31,Sabatino,105,20
+202508,Lima Norte Satélite,K02S,14:40 - 16:21,Sabatino,104,20
+202508,Lima Norte Satélite,K03S,10:50 - 12:31,Sabatino,319,10
+202508,Lima Norte Satélite,K03S,08:55 - 10:36,Sabatino,320,14
+202508,Lima Norte Satélite,K03S,14:40 - 16:21,Sabatino,106,20
+202508,Lima Norte Satélite,K04S,14:40 - 16:21,Sabatino,201,20
+202508,Lima Norte Satélite,K04S,10:50 - 12:31,Sabatino,202,20
+202508,Lima Norte Satélite,K04S,08:55 - 10:36,Sabatino,201,20
+202508,Lima Norte Satélite,K05S,08:55 - 10:36,Sabatino,202,20
+202508,Lima Norte Satélite,K06S,14:40 - 16:21,Sabatino,202,20
+202508,Lima Norte Satélite,K06S,08:55 - 10:36,Sabatino,203,20
+202508,Lima Norte Satélite,KN1SP,16:35 - 18:16,Sabatino,101,15
+202508,Lima Norte Satélite,KN4SP,08:55 - 10:36,Sabatino,101,15
+202508,Lima Norte Satélite,PK4SP,10:50 - 12:31,Sabatino,103,15
+202508,Lima Norte Satélite,PT1SP,16:35 - 18:16,Sabatino,105,20
+202508,Lima Norte Satélite,PT1SP,07:00 - 08:41,Sabatino,104,20
+202508,Lima Norte Satélite,PT1SP,08:55 - 10:36,Sabatino,408,19
+202508,Lima Norte Satélite,PT2SP,16:35 - 18:16,Sabatino,106,20
+202508,Lima Norte Satélite,PT2SP,08:55 - 10:36,Sabatino,415,14
+202508,Lima Norte Satélite,PT2SP,10:50 - 12:31,Sabatino,106,20
+202508,Lima Norte Satélite,PT2SP,07:00 - 08:41,Sabatino,105,20
+202508,Lima Norte Satélite,PT3SP,07:00 - 08:41,Sabatino,106,20
+202508,Lima Norte Satélite,PT3SP,12:45 - 14:26,Sabatino,201,20
+202508,Lima Norte Satélite,PT4SP,07:00 - 08:41,Sabatino,201,20
+202508,Lima Norte Satélite,PT4SP,10:50 - 12:31,Sabatino,320,14
+202508,Lima Norte Satélite,PT5SP,10:50 - 12:31,Sabatino,408,19
+202508,Lima Norte Satélite,PT6SP,07:00 - 08:41,Sabatino,202,20
+202508,Lima Norte Satélite,PT6SP,10:50 - 12:31,Sabatino,321,15
+202508,Lima Norte Satélite,T01SP,08:55 - 10:36,Sabatino,416,17
+202508,Lima Norte Satélite,T02SP,10:50 - 12:31,Sabatino,410,20
+202508,Lima Norte Satélite,T03SP,07:00 - 08:41,Sabatino,203,20
+202508,Lima Norte Satélite,T05SP,08:55 - 10:36,Sabatino,418,19
+202508,Lima Norte Satélite,T06SP,12:45 - 14:26,Sabatino,202,20
+202508,Lima Norte Satélite,Y01S,08:55 - 10:36,Sabatino,301,20
+202508,Lima Norte Satélite,Y01S,12:45 - 14:26,Sabatino,104,20
+202508,Lima Norte Satélite,Y02S,08:55 - 10:36,Sabatino,308,20
+202508,Lima Norte Satélite,Y03S,14:40 - 16:21,Sabatino,204,20
+202508,Lima Norte Satélite,Y05S,12:45 - 14:26,Sabatino,105,20
+202508,La Molina,PT3SP,08:55 - 10:36,Sabatino,504,20
+202508,La Molina,PT5SP,08:55 - 10:36,Sabatino,506,20
+202508,La Molina,PT6SP,08:55 - 10:36,Sabatino,S207,20
+202508,La Molina,T03SP,08:55 - 10:36,Sabatino,S305,20
+202508,La Molina,T05SP,08:55 - 10:36,Sabatino,S307,20
+202508,Lima Centro,B10BP,08:55 - 12:31,Sabatino,508,25
+202508,Miraflores,PT6SP,10:50 - 12:31,Sabatino,413,18
+202508,Miraflores,T01SP,10:50 - 12:31,Sabatino,708,18
+202508,Miraflores,T02SP,10:50 - 12:31,Sabatino,303,15
+202508,San Miguel,PT1SP,10:50 - 12:31,Sabatino,804,20
+202508,San Miguel,T04SP,10:50 - 12:31,Sabatino,803,18
+202508,San Miguel,Y01S,10:50 - 12:31,Sabatino,510,20
+202508,San Miguel,PT5SP,10:50 - 12:31,Sabatino,802,18
+202508,San Miguel,T01SP,10:50 - 12:31,Sabatino,705,19
+202508,Pucallpa,C01S,10:50 - 12:31,Sabatino,201,19
+202508,Pucallpa,JR1SP,08:55 - 10:36,Sabatino,203,20
+202508,Lima Centro,PK1SP,08:55 - 10:36,Sabatino,102,15
+202508,Miraflores,KN1SP,08:55 - 10:36,Sabatino,203,15
+202508,Lima Norte Satélite,PK1SP,12:45 - 14:26,Sabatino,106,15
+202508,La Molina,KN1SP,12:45 - 14:26,Sabatino,311,15
+202508,Surco,B00BP,12:45 - 16:21,Sabatino,305,25
+202509,Ica,K04S,10:50 - 12:31,Sabatino,108,12
+202509,Ica,JR2SP,14:40 - 16:21,Sabatino,106,19
+202509,Ica,JR3SP,14:40 - 16:21,Sabatino,103,17
+202509,Ica,JR4SP,14:40 - 16:21,Sabatino,101,15
+202509,Ica,JR7SP,14:40 - 16:21,Sabatino,203,14
+202509,Ica,JR8SP,14:40 - 16:21,Sabatino,102,15
+202509,Ica,PT1SP,14:40 - 16:21,Sabatino,202,15
+202509,Ica,JR1SP,14:40 - 16:21,Sabatino,107,19
+202509,Surco,KN1SP,12:45 - 14:26,Sabatino,103,15
+202509,Lima Norte Satélite,KN1SP,12:45 - 14:26,Sabatino,103,15
+202509,San Miguel,KN1SP,10:50 - 12:31,Sabatino,301,15
+202509,Miraflores,KN2SP,08:55 - 10:36,Sabatino,202,15
+202509,Lima Norte Satélite,KN2SP,12:45 - 14:26,Sabatino,105,15
+202509,Surco,KN3SP,08:55 - 10:36,Sabatino,101,15
+202509,San Miguel,KN3SP,10:50 - 12:31,Sabatino,302,15
+202509,San Miguel,KN4SP,10:50 - 12:31,Sabatino,303,15
+202509,Surco,PK1SP,12:45 - 14:26,Sabatino,201,15
+202509,San Miguel,PK1SP,10:50 - 12:31,Sabatino,201,15
+202509,Lima Norte Satélite,PK1SP,12:45 - 14:26,Sabatino,101,15
+202509,Surco,PK3SP,10:50 - 12:31,Sabatino,101,15
+202509,Lima Norte Satélite,PK3SP,12:45 - 14:26,Sabatino,102,15
+202509,Miraflores,C01S,10:50 - 12:31,Sabatino,406,20
+202509,Lima Centro,C01S,08:55 - 10:36,Sabatino,203,20
+202509,La Molina,C01S,08:55 - 10:36,Sabatino,301,20
+202509,Lima Centro,C02S,08:55 - 10:36,Sabatino,204,18
+202509,Surco,C02S,12:45 - 14:26,Sabatino,203,20
+202509,La Molina,C02S,12:45 - 14:26,Sabatino,305,20
+202509,San Miguel,C02S,10:50 - 12:31,Sabatino,407,19
+202509,Lima Norte Satélite,C02S,10:50 - 12:31,Sabatino,206,20
+202509,Lima Centro,C03S,10:50 - 12:31,Sabatino,102,20
+202509,Miraflores,C03S,10:50 - 12:31,Sabatino,401,15
+202509,Lima Norte Satélite,C03S,08:55 - 10:36,Sabatino,106,20
+202509,La Molina,C03S,10:50 - 12:31,Sabatino,402,20
+202509,San Miguel,C03S,10:50 - 12:31,Sabatino,501,19
+202509,San Miguel,C03S,08:55 - 10:36,Sabatino,403,19
+202509,La Molina,C04S,12:45 - 14:26,Sabatino,306,20
+202509,Lima Norte Satélite,C04S,10:50 - 12:31,Sabatino,306,20
+202509,Miraflores,C05S,10:50 - 12:31,Sabatino,408,20
+202509,Lima Centro,C06S,08:55 - 10:36,Sabatino,308,19
+202509,Surco,C06S,10:50 - 12:31,Sabatino,104,20
+202509,Surco,K01S,10:50 - 12:31,Sabatino,102,20
+202509,Lima Centro,K01S,10:50 - 12:31,Sabatino,202,19
+202509,San Miguel,K01S,08:55 - 10:36,Sabatino,202,19
+202509,La Molina,K01S,10:50 - 12:31,Sabatino,301,20
+202509,San Miguel,K01S,10:50 - 12:31,Sabatino,401,19
+202509,Lima Norte Satélite,K01S,10:50 - 12:31,Sabatino,101,20
+202509,Lima Centro,K02S,10:50 - 12:31,Sabatino,203,20
+202509,Surco,K02S,10:50 - 12:31,Sabatino,201,20
+202509,San Miguel,K02S,10:50 - 12:31,Sabatino,402,20
+202509,La Molina,K02S,10:50 - 12:31,Sabatino,312,20
+202509,San Miguel,K02S,08:55 - 10:36,Sabatino,401,19
+202509,Lima Norte Satélite,K02S,10:50 - 12:31,Sabatino,102,20
+202509,Chimbote,K03S,10:50 - 12:31,Sabatino,102,17
+202509,Surco,K03S,10:50 - 12:31,Sabatino,203,20
+202509,Surco,K03S,08:55 - 10:36,Sabatino,102,20
+202509,Iquitos,K03S,08:55 - 10:36,Sabatino,302,20
+202509,Miraflores,K03S,10:50 - 12:31,Sabatino,301,15
+202509,Lima Norte Satélite,K03S,08:55 - 10:36,Sabatino,103,20
+202509,San Miguel,K03S,10:50 - 12:31,Sabatino,403,19
+202509,La Molina,K03S,10:50 - 12:31,Sabatino,313,19
+202509,Lima Norte Satélite,K03S,10:50 - 12:31,Sabatino,201,20
+202509,Lima Centro,K04S,10:50 - 12:31,Sabatino,103,20
+202509,Surco,K04S,08:55 - 10:36,Sabatino,203,20
+202509,San Miguel,K04S,10:50 - 12:31,Sabatino,404,18
+202509,Lima Norte Satélite,K04S,10:50 - 12:31,Sabatino,204,20
+202509,Surco,K05S,08:55 - 10:36,Sabatino,204,20
+202509,Lima Centro,K05S,08:55 - 10:36,Sabatino,201,19
+202509,Lima Norte Satélite,K05S,08:55 - 10:36,Sabatino,105,20
+202509,San Miguel,K05S,10:50 - 12:31,Sabatino,405,20
+202509,Miraflores,K06S,10:50 - 12:31,Sabatino,504,20
+202509,Lima Centro,K06S,10:50 - 12:31,Sabatino,301,20
+202509,San Miguel,K06S,10:50 - 12:31,Sabatino,406,19
+202509,La Molina,K06S,08:55 - 10:36,Sabatino,202,20
+202509,Surco,Y01S,08:55 - 10:36,Sabatino,307,20
+202509,San Miguel,Y01S,10:50 - 12:31,Sabatino,503,19
+202509,Surco,Y02S,08:55 - 10:36,Sabatino,301,20
+202509,Lima Centro,Y02S,08:55 - 10:36,Sabatino,309,13
+202509,San Miguel,Y03S,10:50 - 12:31,Sabatino,504,20
+202509,Chincha,JR1SP,10:50 - 12:31,Sabatino,202,20
+202509,Lima Centro,JR1SP,10:50 - 12:31,Sabatino,503,20
+202509,Miraflores,JR1SP,10:50 - 12:31,Sabatino,702,20
+202509,Lima Centro,JR1SP,08:55 - 10:36,Sabatino,310,16
+202509,Surco,JR1SP,10:50 - 12:31,Sabatino,207,20
+202509,Iquitos,JR1SP,08:55 - 10:36,Sabatino,201,20
+202509,Chimbote,JR1SP,10:50 - 12:31,Sabatino,201,13
+202509,San Miguel,JR1SP,10:50 - 12:31,Sabatino,604,20
+202509,La Molina,JR1SP,10:50 - 12:31,Sabatino,406,20
+202509,San Miguel,JR1SP,08:55 - 10:36,Sabatino,406,19
+202509,Lima Norte Satélite,JR1SP,08:55 - 10:36,Sabatino,305,20
+202509,Lima Norte Satélite,JR1SP,10:50 - 12:31,Sabatino,406,20
+202509,Pucallpa,JR2SP,10:50 - 12:31,Sabatino,203,20
+202509,Chimbote,JR2SP,10:50 - 12:31,Sabatino,202,16
+202509,Iquitos,JR2SP,08:55 - 10:36,Sabatino,401,20
+202509,Surco,JR2SP,10:50 - 12:31,Sabatino,406,20
+202509,Surco,JR2SP,08:55 - 10:36,Sabatino,309,20
+202509,Lima Centro,JR2SP,10:50 - 12:31,Sabatino,608,18
+202509,Lima Centro,JR2SP,08:55 - 10:36,Sabatino,505,20
+202509,Miraflores,JR2SP,10:50 - 12:31,Sabatino,411,20
+202509,Lima Norte Satélite,JR2SP,08:55 - 10:36,Sabatino,317,14
+202509,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,308,20
+202509,San Miguel,JR2SP,10:50 - 12:31,Sabatino,707,20
+202509,La Molina,JR2SP,08:55 - 10:36,Sabatino,303,20
+202509,La Molina,JR2SP,10:50 - 12:31,Sabatino,411,19
+202509,Miraflores,JR3SP,10:50 - 12:31,Sabatino,606,20
+202509,Lima Centro,JR3SP,10:50 - 12:31,Sabatino,708,20
+202509,Lima Centro,JR3SP,08:55 - 10:36,Sabatino,705,20
+202509,Surco,JR3SP,10:50 - 12:31,Sabatino,301,20
+202509,Surco,JR3SP,14:40 - 16:21,Sabatino,301,20
+202509,Surco,JR3SP,08:55 - 10:36,Sabatino,310,20
+202509,Iquitos,JR3SP,08:55 - 10:36,Sabatino,202,20
+202509,Pucallpa,JR3SP,08:55 - 10:36,Sabatino,204,20
+202509,La Molina,JR3SP,08:55 - 10:36,Sabatino,305,20
+202509,La Molina,JR3SP,10:50 - 12:31,Sabatino,412,20
+202509,San Miguel,JR3SP,08:55 - 10:36,Sabatino,604,20
+202509,Lima Norte Satélite,JR3SP,08:55 - 10:36,Sabatino,311,20
+202509,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,323,16
+202509,San Miguel,JR3SP,10:50 - 12:31,Sabatino,607,20
+202509,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,322,15
+202509,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,317,14
+202509,Surco,JR4SP,10:50 - 12:31,Sabatino,302,20
+202509,Lima Centro,JR4SP,10:50 - 12:31,Sabatino,310,16
+202509,Miraflores,JR4SP,10:50 - 12:31,Sabatino,603,20
+202509,Lima Centro,JR4SP,08:55 - 10:36,Sabatino,708,20
+202509,Lima Norte Satélite,JR4SP,10:50 - 12:31,Sabatino,302,20
+202509,Lima Norte Satélite,JR4SP,08:55 - 10:36,Sabatino,306,20
+202509,San Miguel,JR4SP,10:50 - 12:31,Sabatino,608,19
+202509,La Molina,JR4SP,12:45 - 14:26,Sabatino,308,20
+202509,Lima Centro,JR5SP,10:50 - 12:31,Sabatino,407,20
+202509,Miraflores,JR5SP,10:50 - 12:31,Sabatino,410,19
+202509,Surco,JR5SP,08:55 - 10:36,Sabatino,313,20
+202509,La Molina,JR5SP,08:55 - 10:36,Sabatino,306,20
+202509,San Miguel,JR5SP,10:50 - 12:31,Sabatino,610,20
+202509,Lima Norte Satélite,JR5SP,08:55 - 10:36,Sabatino,406,20
+202509,Lima Norte Satélite,JR5SP,10:50 - 12:31,Sabatino,325,16
+202509,Surco,JR6SP,10:50 - 12:31,Sabatino,303,20
+202509,Miraflores,JR6SP,10:50 - 12:31,Sabatino,609,17
+202509,Lima Centro,JR6SP,10:50 - 12:31,Sabatino,302,20
+202509,Lima Norte Satélite,JR6SP,10:50 - 12:31,Sabatino,405,17
+202509,San Miguel,JR6SP,10:50 - 12:31,Sabatino,701,19
+202509,La Molina,JR6SP,10:50 - 12:31,Sabatino,506,20
+202509,Lima Norte Satélite,JR6SP,08:55 - 10:36,Sabatino,407,19
+202509,Lima Centro,JR7SP,12:45 - 14:26,Sabatino,305,20
+202509,Miraflores,JR7SP,10:50 - 12:31,Sabatino,414,17
+202509,Lima Centro,JR7SP,08:55 - 10:36,Sabatino,709,20
+202509,Surco,JR7SP,08:55 - 10:36,Sabatino,314,20
+202509,Iquitos,JR7SP,08:55 - 10:36,Sabatino,404,20
+202509,Lima Norte Satélite,JR7SP,14:40 - 16:21,Sabatino,102,20
+202509,San Miguel,JR7SP,10:50 - 12:31,Sabatino,703,19
+202509,Lima Norte Satélite,JR7SP,08:55 - 10:36,Sabatino,322,15
+202509,Lima Norte Satélite,JR7SP,10:50 - 12:31,Sabatino,417,14
+202509,Iquitos,JR8SP,12:45 - 14:26,Sabatino,202,20
+202509,Surco,JR8SP,08:55 - 10:36,Sabatino,205,20
+202509,Lima Centro,JR8SP,10:50 - 12:31,Sabatino,304,20
+202509,Miraflores,JR8SP,10:50 - 12:31,Sabatino,703,20
+202509,Lima Norte Satélite,JR8SP,10:50 - 12:31,Sabatino,407,19
+202509,Lima Norte Satélite,JR8SP,08:55 - 10:36,Sabatino,323,16
+202509,San Miguel,JR8SP,08:55 - 10:36,Sabatino,701,19
+202509,Lima Centro,PT1SP,08:55 - 10:36,Sabatino,605,20
+202509,Surco,PT1SP,10:50 - 12:31,Sabatino,403,20
+202509,San Miguel,PT1SP,08:55 - 10:36,Sabatino,703,19
+202509,San Miguel,PT1SP,10:50 - 12:31,Sabatino,708,19
+202509,Lima Norte Satélite,PT1SP,10:50 - 12:31,Sabatino,307,17
+202509,La Molina,PT1SP,08:55 - 10:36,Sabatino,307,20
+202509,Lima Norte Satélite,PT1SP,08:55 - 10:36,Sabatino,324,16
+202509,Surco,PT2SP,10:50 - 12:31,Sabatino,305,20
+202509,Miraflores,PT2SP,10:50 - 12:31,Sabatino,705,19
+202509,Lima Centro,PT2SP,10:50 - 12:31,Sabatino,307,20
+202509,Lima Norte Satélite,PT2SP,08:55 - 10:36,Sabatino,325,16
+202509,San Miguel,PT2SP,10:50 - 12:31,Sabatino,709,19
+202509,La Molina,PT2SP,08:55 - 10:36,Sabatino,308,20
+202509,Lima Centro,PT3SP,10:50 - 12:31,Sabatino,401,20
+202509,Surco,PT3SP,12:45 - 14:26,Sabatino,312,20
+202509,Iquitos,PT3SP,12:45 - 14:26,Sabatino,302,20
+202509,La Molina,PT3SP,08:55 - 10:36,Sabatino,310,19
+202509,Lima Norte Satélite,PT3SP,10:50 - 12:31,Sabatino,303,20
+202509,Lima Norte Satélite,PT3SP,08:55 - 10:36,Sabatino,405,17
+202509,Iquitos,PT4SP,12:45 - 14:26,Sabatino,303,20
+202509,Surco,PT4SP,08:55 - 10:36,Sabatino,306,20
+202509,Lima Centro,PT4SP,10:50 - 12:31,Sabatino,402,20
+202509,Miraflores,PT4SP,10:50 - 12:31,Sabatino,709,17
+202509,Lima Norte Satélite,PT4SP,08:55 - 10:36,Sabatino,318,14
+202509,Lima Norte Satélite,PT4SP,10:50 - 12:31,Sabatino,301,20
+202509,Lima Centro,PT5SP,10:50 - 12:31,Sabatino,403,20
+202509,Surco,PT5SP,14:40 - 16:21,Sabatino,302,20
+202509,Lima Norte Satélite,PT5SP,10:50 - 12:31,Sabatino,418,19
+202509,La Molina,PT5SP,08:55 - 10:36,Sabatino,311,19
+202509,Lima Norte Satélite,PT5SP,08:55 - 10:36,Sabatino,321,15
+202509,Surco,PT6SP,08:55 - 10:36,Sabatino,308,20
+202509,Lima Centro,PT6SP,10:50 - 12:31,Sabatino,406,20
+202509,Lima Norte Satélite,PT6SP,14:40 - 16:21,Sabatino,103,20
+202509,La Molina,PT6SP,08:55 - 10:36,Sabatino,312,20
+202509,San Miguel,PT6SP,08:55 - 10:36,Sabatino,705,19
+202509,Lima Norte Satélite,PT6SP,10:50 - 12:31,Sabatino,419,19
+202509,Lima Centro,T01SP,08:55 - 10:36,Sabatino,302,20
+202509,Surco,T01SP,10:50 - 12:31,Sabatino,204,20
+202509,La Molina,T01SP,08:55 - 10:36,Sabatino,313,19
+202509,Lima Norte Satélite,T01SP,10:50 - 12:31,Sabatino,416,17
+202509,Lima Norte Satélite,T02SP,08:55 - 10:36,Sabatino,417,14
+202509,Surco,T03SP,12:45 - 14:26,Sabatino,207,20
+202509,Lima Norte Satélite,T03SP,08:55 - 10:36,Sabatino,419,19
+202509,Lima Norte Satélite,T05SP,10:50 - 12:31,Sabatino,415,14
+202509,Surco,T06SP,08:55 - 10:36,Sabatino,311,20
+202509,Lima Norte Satélite,T06SP,10:50 - 12:31,Sabatino,324,16
+202509,Lima Centro,B00BP,08:55 - 12:31,Sabatino,504,25
+202509,Lima Norte Satélite,B00BP,12:45 - 16:21,Sabatino,303,25
+202509,Lima Centro,B01BP,08:55 - 12:31,Sabatino,506,25
+202509,Surco,B01BP,12:45 - 16:21,Sabatino,208,24
+202509,Lima Norte Satélite,B01BP,12:45 - 16:21,Sabatino,304,18
+202509,Lima Centro,B02BP,08:55 - 12:31,Sabatino,507,25
+202509,Lima Norte Satélite,B02BP,12:45 - 16:21,Sabatino,302,25
+202509,Lima Norte Satélite,B03BP,12:45 - 16:21,Sabatino,308,23
+202509,Lima Centro,B06BP,08:55 - 12:31,Sabatino,606,25
+202509,Surco,B06BP,10:50 - 14:26,Sabatino,211,25
+202509,San Miguel,B07BP,08:55 - 12:31,Sabatino,1403,20
+202509,La Molina,B07BP,10:50 - 14:26,Sabatino,504,23
+202509,Lima Norte Satélite,B09BP,12:45 - 16:21,Sabatino,317,14
+202509,Surco,B12BP,12:45 - 16:21,Sabatino,306,25
+202509,La Molina,PT4SP,10:50 - 12:31,Sabatino,S305,20
+202509,Lima Centro,B08BP,08:55 - 12:31,Sabatino,607,23
+202509,Miraflores,KN3SP,08:55 - 10:36,Sabatino,201,15
+202509,San Miguel,PT5SP,10:50 - 12:31,Sabatino,508,19
+202509,San Miguel,T01SP,10:50 - 12:31,Sabatino,810,20
+202509,La Molina,JR7SP,10:50 - 12:31,Sabatino,413,19
+202509,La Molina,JR8SP,10:50 - 12:31,Sabatino,S207,20
+202509,La Molina,PK1SP,12:45 - 14:26,Sabatino,310,15
+202509,Lima Norte Satélite,T04SP,07:00 - 08:41,Sabatino,101,20
+202509,Surco,PK4SP,12:45 - 14:26,Sabatino,104,15
+202509,Lima Norte Satélite,K01S,12:45 - 14:26,Sabatino,204,20
+202509,Chincha,JR2SP,10:50 - 12:31,Sabatino,203,20
+202510,Ica,JR1SP,14:40 - 16:21,Sabatino,105,20
+202510,Ica,JR2SP,14:40 - 16:21,Sabatino,204,19
+202510,Ica,JR3SP,14:40 - 16:21,Sabatino,201,15
+202510,Ica,JR7SP,14:40 - 16:21,Sabatino,108,12
+202510,La Molina,KN1SP,12:45 - 14:26,Sabatino,201,15
+202510,Surco,KN1SP,08:55 - 10:36,Sabatino,103,15
+202510,La Molina,KN2SP,12:45 - 14:26,Sabatino,202,15
+202510,Surco,KN2SP,08:55 - 10:36,Sabatino,201,15
+202510,Surco,KN3SP,08:55 - 10:36,Sabatino,202,15
+202510,San Miguel,PK4SP,08:55 - 10:36,Sabatino,201,15
+202510,La Molina,K01S,10:50 - 12:31,Sabatino,201,20
+202510,San Miguel,K01S,10:50 - 12:31,Sabatino,601,19
+202510,Miraflores,K01S,08:55 - 10:36,Sabatino,303,15
+202510,Surco,K01S,12:45 - 14:26,Sabatino,101,20
+202510,Surco,K01S,10:50 - 12:31,Sabatino,103,20
+202510,Miraflores,K01S,10:50 - 12:31,Sabatino,407,20
+202510,Lima Centro,K01S,08:55 - 10:36,Sabatino,202,19
+202510,La Molina,K02S,10:50 - 12:31,Sabatino,202,20
+202510,San Miguel,K02S,10:50 - 12:31,Sabatino,505,19
+202510,Lima Centro,K02S,08:55 - 10:36,Sabatino,305,20
+202510,Surco,K02S,10:50 - 12:31,Sabatino,202,20
+202510,Miraflores,K02S,08:55 - 10:36,Sabatino,204,15
+202510,Miraflores,K02S,10:50 - 12:31,Sabatino,505,20
+202510,San Miguel,K03S,10:50 - 12:31,Sabatino,506,18
+202510,San Miguel,K03S,08:55 - 10:36,Sabatino,301,20
+202510,La Molina,K03S,10:50 - 12:31,Sabatino,302,20
+202510,Miraflores,K03S,10:50 - 12:31,Sabatino,203,15
+202510,Miraflores,K03S,08:55 - 10:36,Sabatino,205,15
+202510,Surco,K03S,08:55 - 10:36,Sabatino,207,20
+202510,Surco,K03S,10:50 - 12:31,Sabatino,209,20
+202510,Lima Centro,K03S,08:55 - 10:36,Sabatino,306,20
+202510,San Miguel,K04S,10:50 - 12:31,Sabatino,507,20
+202510,Lima Centro,K04S,08:55 - 10:36,Sabatino,407,20
+202510,Miraflores,K04S,10:50 - 12:31,Sabatino,605,19
+202510,San Miguel,C01S,08:55 - 10:36,Sabatino,302,19
+202510,La Molina,C01S,10:50 - 12:31,Sabatino,305,20
+202510,Surco,C01S,08:55 - 10:36,Sabatino,302,20
+202510,Lima Centro,C01S,08:55 - 10:36,Sabatino,401,20
+202510,La Molina,C02S,10:50 - 12:31,Sabatino,306,20
+202510,San Miguel,C02S,10:50 - 12:31,Sabatino,510,20
+202510,Lima Centro,C02S,08:55 - 10:36,Sabatino,307,20
+202510,Iquitos,C02S,10:50 - 12:31,Sabatino,202,20
+202510,Surco,C02S,10:50 - 12:31,Sabatino,304,20
+202510,La Molina,C03S,10:50 - 12:31,Sabatino,307,20
+202510,Surco,C03S,10:50 - 12:31,Sabatino,307,20
+202510,Lima Centro,C03S,10:50 - 12:31,Sabatino,201,19
+202510,Lima Centro,C04S,08:55 - 10:36,Sabatino,403,20
+202510,Surco,C04S,10:50 - 12:31,Sabatino,309,20
+202510,Miraflores,C04S,08:55 - 10:36,Sabatino,301,15
+202510,San Miguel,C05S,08:55 - 10:36,Sabatino,303,20
+202510,San Miguel,C05S,10:50 - 12:31,Sabatino,511,19
+202510,Surco,C05S,10:50 - 12:31,Sabatino,310,20
+202510,Lima Centro,C05S,08:55 - 10:36,Sabatino,301,20
+202510,Lima Centro,C05S,10:50 - 12:31,Sabatino,305,20
+202510,La Molina,C06S,10:50 - 12:31,Sabatino,308,20
+202510,Lima Centro,C06S,08:55 - 10:36,Sabatino,303,20
+202510,La Molina,K04S,10:50 - 12:31,Sabatino,303,20
+202510,La Molina,K04S,08:55 - 10:36,Sabatino,201,20
+202510,La Molina,K05S,08:55 - 10:36,Sabatino,302,20
+202510,La Molina,K05S,10:50 - 12:31,Sabatino,304,20
+202510,San Miguel,K05S,10:50 - 12:31,Sabatino,509,19
+202510,Lima Centro,K05S,08:55 - 10:36,Sabatino,304,20
+202510,Surco,K05S,08:55 - 10:36,Sabatino,209,20
+202510,Miraflores,K05S,10:50 - 12:31,Sabatino,409,20
+202510,Surco,K05S,10:50 - 12:31,Sabatino,210,20
+202510,Chimbote,K05S,08:55 - 10:36,Sabatino,101,17
+202510,La Molina,K06S,08:55 - 10:36,Sabatino,304,20
+202510,Surco,K06S,08:55 - 10:36,Sabatino,210,20
+202510,Iquitos,K06S,10:50 - 12:31,Sabatino,201,20
+202510,Miraflores,K06S,10:50 - 12:31,Sabatino,302,15
+202510,Lima Centro,K06S,08:55 - 10:36,Sabatino,103,20
+202510,La Molina,Y01S,08:55 - 10:36,Sabatino,309,20
+202510,San Miguel,Y01S,08:55 - 10:36,Sabatino,402,20
+202510,Lima Centro,Y01S,10:50 - 12:31,Sabatino,306,20
+202510,Lima Centro,Y02S,10:50 - 12:31,Sabatino,308,19
+202510,Miraflores,Y02S,08:55 - 10:36,Sabatino,302,15
+202510,Lima Centro,Y03S,10:50 - 12:31,Sabatino,309,13
+202510,La Molina,Y04S,10:50 - 12:31,Sabatino,309,20
+202510,San Miguel,Y05S,08:55 - 10:36,Sabatino,404,18
+202510,Lima Centro,Y06S,10:50 - 12:31,Sabatino,204,18
+202510,San Miguel,JR1SP,08:55 - 10:36,Sabatino,405,20
+202510,San Miguel,JR1SP,10:50 - 12:31,Sabatino,803,18
+202510,La Molina,JR1SP,10:50 - 12:31,Sabatino,310,19
+202510,La Molina,JR1SP,12:45 - 14:26,Sabatino,301,20
+202510,Lima Centro,JR1SP,10:50 - 12:31,Sabatino,609,20
+202510,Lima Centro,JR1SP,08:55 - 10:36,Sabatino,608,18
+202510,Miraflores,JR1SP,10:50 - 12:31,Sabatino,802,20
+202510,Iquitos,JR1SP,08:55 - 10:36,Sabatino,403,20
+202510,Surco,JR1SP,10:50 - 12:31,Sabatino,313,20
+202510,Surco,JR1SP,08:55 - 10:36,Sabatino,303,20
+202510,La Molina,JR2SP,12:45 - 14:26,Sabatino,302,20
+202510,La Molina,JR2SP,10:50 - 12:31,Sabatino,311,19
+202510,San Miguel,JR2SP,08:55 - 10:36,Sabatino,407,19
+202510,San Miguel,JR2SP,10:50 - 12:31,Sabatino,602,18
+202510,Surco,JR2SP,10:50 - 12:31,Sabatino,401,20
+202510,Iquitos,JR2SP,08:55 - 10:36,Sabatino,301,20
+202510,Miraflores,JR2SP,10:50 - 12:31,Sabatino,804,20
+202510,Surco,JR2SP,08:55 - 10:36,Sabatino,304,20
+202510,Lima Centro,JR2SP,08:55 - 10:36,Sabatino,609,20
+202510,Lima Centro,JR2SP,10:50 - 12:31,Sabatino,705,20
+202510,San Miguel,JR3SP,10:50 - 12:31,Sabatino,603,19
+202510,San Miguel,JR3SP,08:55 - 10:36,Sabatino,601,19
+202510,La Molina,JR3SP,10:50 - 12:31,Sabatino,401,20
+202510,Lima Centro,JR3SP,10:50 - 12:31,Sabatino,706,20
+202510,Miraflores,JR3SP,10:50 - 12:31,Sabatino,805,19
+202510,Surco,JR3SP,10:50 - 12:31,Sabatino,402,20
+202510,Surco,JR3SP,08:55 - 10:36,Sabatino,401,20
+202510,Iquitos,JR3SP,10:50 - 12:31,Sabatino,203,20
+202510,La Molina,JR4SP,08:55 - 10:36,Sabatino,401,20
+202510,San Miguel,JR4SP,10:50 - 12:31,Sabatino,605,19
+202510,Iquitos,JR4SP,10:50 - 12:31,Sabatino,301,20
+202510,Miraflores,JR4SP,10:50 - 12:31,Sabatino,402,15
+202510,Surco,JR4SP,08:55 - 10:36,Sabatino,402,20
+202510,Surco,JR4SP,10:50 - 12:31,Sabatino,404,20
+202510,Lima Centro,JR4SP,10:50 - 12:31,Sabatino,709,20
+202510,Lima Centro,JR4SP,08:55 - 10:36,Sabatino,706,20
+202510,Chimbote,JR4SP,08:55 - 10:36,Sabatino,102,17
+202510,La Molina,JR4SP,10:50 - 12:31,Sabatino,403,20
+202510,La Molina,JR5SP,08:55 - 10:36,Sabatino,402,20
+202510,La Molina,JR5SP,10:50 - 12:31,Sabatino,404,20
+202510,San Miguel,JR5SP,08:55 - 10:36,Sabatino,602,18
+202510,San Miguel,JR5SP,10:50 - 12:31,Sabatino,609,19
+202510,Lima Centro,JR5SP,10:50 - 12:31,Sabatino,505,20
+202510,Miraflores,JR5SP,10:50 - 12:31,Sabatino,602,20
+202510,Lima Centro,JR5SP,08:55 - 10:36,Sabatino,408,16
+202510,Surco,JR5SP,08:55 - 10:36,Sabatino,403,20
+202510,Iquitos,JR5SP,10:50 - 12:31,Sabatino,302,20
+202510,Surco,JR5SP,14:40 - 16:21,Sabatino,101,20
+202510,Surco,JR5SP,10:50 - 12:31,Sabatino,205,20
+202510,Chimbote,JR5SP,10:50 - 12:31,Sabatino,101,17
+202510,La Molina,JR6SP,08:55 - 10:36,Sabatino,403,20
+202510,San Miguel,JR6SP,10:50 - 12:31,Sabatino,611,19
+202510,San Miguel,JR6SP,08:55 - 10:36,Sabatino,603,19
+202510,La Molina,JR6SP,10:50 - 12:31,Sabatino,405,20
+202510,Iquitos,JR6SP,10:50 - 12:31,Sabatino,303,20
+202510,Surco,JR6SP,08:55 - 10:36,Sabatino,406,20
+202510,Surco,JR6SP,10:50 - 12:31,Sabatino,206,20
+202510,Lima Centro,JR6SP,10:50 - 12:31,Sabatino,303,20
+202510,Lima Centro,JR6SP,08:55 - 10:36,Sabatino,603,20
+202510,La Molina,JR7SP,08:55 - 10:36,Sabatino,404,20
+202510,San Miguel,JR7SP,08:55 - 10:36,Sabatino,605,19
+202510,San Miguel,JR7SP,10:50 - 12:31,Sabatino,702,18
+202510,Lima Centro,JR7SP,08:55 - 10:36,Sabatino,509,17
+202510,Miraflores,JR7SP,10:50 - 12:31,Sabatino,404,15
+202510,Lima Centro,JR7SP,10:50 - 12:31,Sabatino,501,20
+202510,Iquitos,JR7SP,08:55 - 10:36,Sabatino,303,20
+202510,Surco,JR7SP,08:55 - 10:36,Sabatino,104,20
+202510,Chimbote,JR7SP,08:55 - 10:36,Sabatino,201,13
+202510,La Molina,JR8SP,08:55 - 10:36,Sabatino,405,20
+202510,San Miguel,JR8SP,10:50 - 12:31,Sabatino,704,20
+202510,La Molina,JR8SP,10:50 - 12:31,Sabatino,407,20
+202510,Iquitos,JR8SP,10:50 - 12:31,Sabatino,401,20
+202510,Surco,JR8SP,10:50 - 12:31,Sabatino,208,20
+202510,Surco,JR8SP,08:55 - 10:36,Sabatino,206,20
+202510,Pucallpa,JR8SP,10:50 - 12:31,Sabatino,201,19
+202510,Lima Centro,JR8SP,08:55 - 10:36,Sabatino,510,20
+202510,La Molina,PT1SP,08:55 - 10:36,Sabatino,406,20
+202510,San Miguel,PT1SP,10:50 - 12:31,Sabatino,705,19
+202510,Lima Centro,PT1SP,10:50 - 12:31,Sabatino,404,20
+202510,Iquitos,PT1SP,10:50 - 12:31,Sabatino,402,20
+202510,Miraflores,PT1SP,08:55 - 10:36,Sabatino,404,15
+202510,Miraflores,PT1SP,10:50 - 12:31,Sabatino,405,15
+202510,La Molina,PT2SP,10:50 - 12:31,Sabatino,408,20
+202510,San Miguel,PT2SP,10:50 - 12:31,Sabatino,706,18
+202510,Iquitos,PT2SP,12:45 - 14:26,Sabatino,201,20
+202510,Surco,PT2SP,10:50 - 12:31,Sabatino,306,20
+202510,Miraflores,PT2SP,10:50 - 12:31,Sabatino,403,15
+202510,Lima Centro,PT2SP,10:50 - 12:31,Sabatino,405,20
+202510,La Molina,PT3SP,10:50 - 12:31,Sabatino,409,20
+202510,Lima Centro,PT3SP,08:55 - 10:36,Sabatino,402,20
+202510,Miraflores,PT3SP,10:50 - 12:31,Sabatino,304,15
+202510,Surco,PT3SP,10:50 - 12:31,Sabatino,308,20
+202510,Chimbote,PT3SP,08:55 - 10:36,Sabatino,202,16
+202510,La Molina,PT4SP,08:55 - 10:36,Sabatino,407,20
+202510,San Miguel,PT4SP,10:50 - 12:31,Sabatino,710,20
+202510,Miraflores,PT4SP,10:50 - 12:31,Sabatino,412,18
+202510,Surco,PT4SP,10:50 - 12:31,Sabatino,311,20
+202510,Lima Centro,PT4SP,10:50 - 12:31,Sabatino,601,20
+202510,Chimbote,PT4SP,08:55 - 10:36,Sabatino,203,18
+202510,San Miguel,PT5SP,10:50 - 12:31,Sabatino,711,19
+202510,La Molina,PT5SP,10:50 - 12:31,Sabatino,410,19
+202510,Surco,PT5SP,10:50 - 12:31,Sabatino,312,20
+202510,La Molina,PT6SP,08:55 - 10:36,Sabatino,408,20
+202510,Surco,PT6SP,08:55 - 10:36,Sabatino,208,20
+202510,Iquitos,PT6SP,10:50 - 12:31,Sabatino,403,20
+202510,Miraflores,PT6SP,10:50 - 12:31,Sabatino,413,18
+202510,Lima Centro,PT6SP,10:50 - 12:31,Sabatino,602,20
+202510,Chimbote,PT6SP,10:50 - 12:31,Sabatino,203,18
+202510,La Molina,T01SP,08:55 - 10:36,Sabatino,409,20
+202510,Lima Centro,T01SP,10:50 - 12:31,Sabatino,603,20
+202510,Surco,T01SP,08:55 - 10:36,Sabatino,211,20
+202510,Surco,T02SP,10:50 - 12:31,Sabatino,314,20
+202510,Lima Centro,T02SP,08:55 - 10:36,Sabatino,503,20
+202510,La Molina,T03SP,10:50 - 12:31,Sabatino,414,20
+202510,La Molina,T04SP,08:55 - 10:36,Sabatino,410,19
+202510,San Miguel,T04SP,08:55 - 10:36,Sabatino,606,18
+202510,Lima Centro,T04SP,08:55 - 10:36,Sabatino,404,20
+202510,Surco,T04SP,08:55 - 10:36,Sabatino,305,20
+202510,La Molina,T06SP,08:55 - 10:36,Sabatino,411,19
+202510,Lima Centro,B00BP,10:50 - 14:26,Sabatino,605,25
+202510,Miraflores,B00BP,08:55 - 12:31,Sabatino,507,23
+202510,Miraflores,B01BP,08:55 - 12:31,Sabatino,508,19
+202510,Lima Centro,B01BP,10:50 - 14:26,Sabatino,510,21
+202510,La Molina,B02BP,10:50 - 14:26,Sabatino,S302,22
+202510,Lima Centro,B03BP,10:50 - 14:26,Sabatino,408,16
+202510,San Miguel,B04BP,08:55 - 12:31,Sabatino,1202,18
+202510,Lima Centro,B04BP,08:55 - 12:31,Sabatino,311,25
+202510,Surco,B04BP,08:55 - 12:31,Sabatino,511,25
+202510,Lima Centro,B06BP,08:55 - 12:31,Sabatino,502,25
+202510,Lima Centro,B07BP,08:55 - 12:31,Sabatino,508,25
+202510,Lima Centro,B11BP,08:55 - 12:31,Sabatino,604,25
+202510,San Miguel,T02SP,10:50 - 12:31,Sabatino,809,19
+202510,San Miguel,Y02S,10:50 - 12:31,Sabatino,802,18
+202510,Lima Norte Satélite,C01S,08:55 - 10:36,Sabatino,201,20
+202510,Lima Norte Satélite,C01S,14:40 - 16:21,Sabatino,106,20
+202510,Lima Norte Satélite,C02S,08:55 - 10:36,Sabatino,202,20
+202510,Lima Norte Satélite,C03S,08:55 - 10:36,Sabatino,203,20
+202510,Lima Norte Satélite,C04S,08:55 - 10:36,Sabatino,204,20
+202510,Lima Norte Satélite,C05S,08:55 - 10:36,Sabatino,205,20
+202510,Lima Norte Satélite,C06S,08:55 - 10:36,Sabatino,206,20
+202510,Lima Norte Satélite,JR1SP,14:40 - 16:21,Sabatino,202,20
+202510,Lima Norte Satélite,JR2SP,08:55 - 10:36,Sabatino,308,20
+202510,Lima Norte Satélite,JR2SP,14:40 - 16:21,Sabatino,203,20
+202510,Lima Norte Satélite,JR2SP,10:50 - 12:31,Sabatino,106,20
+202510,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,202,20
+202510,Lima Norte Satélite,JR3SP,10:50 - 12:31,Sabatino,203,20
+202510,Lima Norte Satélite,JR3SP,08:55 - 10:36,Sabatino,309,20
+202510,Lima Norte Satélite,JR4SP,08:55 - 10:36,Sabatino,303,20
+202510,Lima Norte Satélite,JR4SP,14:40 - 16:21,Sabatino,204,20
+202510,Lima Norte Satélite,JR4SP,10:50 - 12:31,Sabatino,205,20
+202510,Lima Norte Satélite,JR5SP,08:55 - 10:36,Sabatino,410,20
+202510,Lima Norte Satélite,JR5SP,10:50 - 12:31,Sabatino,304,18
+202510,Lima Norte Satélite,JR5SP,14:40 - 16:21,Sabatino,205,20
+202510,Lima Norte Satélite,JR5SP,10:50 - 12:31,Sabatino,207,20
+202510,Lima Norte Satélite,JR6SP,16:35 - 18:16,Sabatino,101,20
+202510,Lima Norte Satélite,JR6SP,08:55 - 10:36,Sabatino,412,20
+202510,Lima Norte Satélite,JR6SP,10:50 - 12:31,Sabatino,305,20
+202510,Lima Norte Satélite,JR7SP,10:50 - 12:31,Sabatino,309,20
+202510,Lima Norte Satélite,JR7SP,08:55 - 10:36,Sabatino,416,17
+202510,Lima Norte Satélite,JR8SP,10:50 - 12:31,Sabatino,410,20
+202510,Lima Norte Satélite,K01S,14:40 - 16:21,Sabatino,101,20
+202510,Lima Norte Satélite,K02S,10:50 - 12:31,Sabatino,103,20
+202510,Lima Norte Satélite,K02S,14:40 - 16:21,Sabatino,104,20
+202510,Lima Norte Satélite,K05S,10:50 - 12:31,Sabatino,105,20
+202510,Lima Norte Satélite,K05S,14:40 - 16:21,Sabatino,105,20
+202510,Lima Norte Satélite,K05S,08:55 - 10:36,Sabatino,101,20
+202510,Lima Norte Satélite,K06S,08:55 - 10:36,Sabatino,102,20
+202510,Lima Norte Satélite,PT1SP,08:55 - 10:36,Sabatino,408,19
+202510,Lima Norte Satélite,PT1SP,10:50 - 12:31,Sabatino,311,20
+202510,Lima Norte Satélite,PT2SP,16:35 - 18:16,Sabatino,102,20
+202510,Lima Norte Satélite,PT2SP,08:55 - 10:36,Sabatino,418,19
+202510,Lima Norte Satélite,PT3SP,08:55 - 10:36,Sabatino,320,14
+202510,Lima Norte Satélite,PT3SP,10:50 - 12:31,Sabatino,408,19
+202510,Lima Norte Satélite,PT4SP,07:00 - 08:41,Sabatino,102,20
+202510,Lima Norte Satélite,PT5SP,10:50 - 12:31,Sabatino,318,14
+202510,Lima Norte Satélite,PT6SP,10:50 - 12:31,Sabatino,321,15
+202510,Lima Norte Satélite,T01SP,10:50 - 12:31,Sabatino,320,14
+202510,Lima Norte Satélite,T03SP,10:50 - 12:31,Sabatino,412,20
+202510,Lima Norte Satélite,T04SP,07:00 - 08:41,Sabatino,103,20
+202510,Lima Norte Satélite,Y01S,08:55 - 10:36,Sabatino,307,17
+202510,Lima Norte Satélite,Y02S,08:55 - 10:36,Sabatino,304,18
+202510,Lima Norte Satélite,Y03S,08:55 - 10:36,Sabatino,415,14
+202510,Lima Norte Satélite,Y04S,14:40 - 16:21,Sabatino,201,20
+202510,Lima Norte Satélite,B00BP,12:45 - 16:21,Sabatino,206,20
+202510,Lima Norte Satélite,B01BP,12:45 - 16:21,Sabatino,207,20
+202510,Lima Norte Satélite,B03BP,12:45 - 16:21,Sabatino,305,20
+202510,Lima Norte Satélite,B04BP,12:45 - 16:21,Sabatino,411,25
+202510,Lima Norte Satélite,B05BP,12:45 - 16:21,Sabatino,412,25
+202510,Lima Norte Satélite,B07BP,14:40 - 18:16,Sabatino,309,20
+202510,Lima Norte Satélite,B09BP,08:55 - 12:31,Sabatino,411,25
+202510,Lima Norte Satélite,B10BP,08:55 - 12:31,Sabatino,319,10
+202510,Lima Norte Satélite,B11BP,12:45 - 16:21,Sabatino,410,25
+202510,Surco,B00BP,08:55 - 12:31,Sabatino,512,25
+202510,Lima Norte Satélite,JR1SP,07:00 - 08:41,Sabatino,201,20
+202510,Lima Norte Satélite,K01S,07:00 - 08:41,Sabatino,106,20
+202510,Lima Norte Satélite,K03S,08:55 - 10:36,Sabatino,301,20
+202510,Lima Norte Satélite,K03S,14:40 - 16:21,Sabatino,301,20
+202510,Lima Norte Satélite,K04S,08:55 - 10:36,Sabatino,302,20
+202510,Lima Norte Satélite,KN1SP,08:55 - 10:36,Sabatino,207,15
+202510,Lima Norte Satélite,T02SP,07:00 - 08:41,Sabatino,105,20
+202510,Lima Norte Satélite,T06SP,07:00 - 08:41,Sabatino,202,20
+202510,San Miguel,B06BP,08:55 - 12:31,Sabatino,1302,18
+202510,Lima Norte Satélite,B06BP,12:45 - 16:21,Sabatino,318,14
+202510,Lima Norte Satélite,B08BP,12:45 - 16:21,Sabatino,323,16
+202510,Miraflores,I04BP,08:55 - 12:31,Sabatino,708,18
+202510,San Miguel,B02BP,07:00 - 10:36,Sabatino,501,19
+202510,Miraflores,B02BP,08:55 - 12:31,Sabatino,601,24
+202510,Miraflores,C01S,10:50 - 12:31,Sabatino,509,20
+202510,Miraflores,C02S,10:50 - 12:31,Sabatino,510,18
+202510,Miraflores,C03S,10:50 - 12:31,Sabatino,511,18
+202510,Lima Norte Satélite,C04S,16:35 - 18:16,Sabatino,105,20
+202510,Miraflores,C05S,08:55 - 10:36,Sabatino,304,15
+202510,Pucallpa,JR1SP,08:55 - 10:36,Sabatino,203,20
+202510,Pucallpa,JR2SP,08:55 - 10:36,Sabatino,206,15
+202510,Lima Norte Satélite,JR3SP,14:40 - 16:21,Sabatino,311,20
+202510,Pucallpa,JR6SP,10:50 - 12:31,Sabatino,202,20
+202510,Miraflores,JR6SP,10:50 - 12:31,Sabatino,305,15
+202510,Pucallpa,JR7SP,10:50 - 12:31,Sabatino,205,14
+202510,Lima Norte Satélite,JR8SP,12:45 - 14:26,Sabatino,203,20
+202510,Miraflores,JR8SP,10:50 - 12:31,Sabatino,604,20
+202510,Chimbote,JR8SP,08:55 - 10:36,Sabatino,204,18
+202510,La Molina,K01S,08:55 - 10:36,Sabatino,412,20
+202510,Lima Centro,K01S,10:50 - 12:31,Sabatino,101,20
+202510,Pucallpa,K02S,08:55 - 10:36,Sabatino,202,20
+202510,Pucallpa,K06S,08:55 - 10:36,Sabatino,201,19
+202510,Lima Norte Satélite,KN1SP,16:35 - 18:16,Sabatino,104,15
+202510,Lima Norte Satélite,PK1SP,12:45 - 14:26,Sabatino,106,15
+202510,Lima Norte Satélite,PK2SP,12:45 - 14:26,Sabatino,201,15
+202510,Lima Centro,PT1SP,08:55 - 10:36,Sabatino,601,20
+202510,Lima Norte Satélite,PT3SP,07:00 - 08:41,Sabatino,203,20
+202510,Lima Norte Satélite,PT4SP,12:45 - 14:26,Sabatino,205,20
+202510,Lima Centro,PT5SP,12:45 - 14:26,Sabatino,201,19
+202510,Miraflores,PT5SP,10:50 - 12:31,Sabatino,205,15
+202510,Miraflores,T02SP,10:50 - 12:31,Sabatino,607,18
+202510,Miraflores,T03SP,10:50 - 12:31,Sabatino,608,18
+202510,Lima Centro,T03SP,12:45 - 14:26,Sabatino,202,19
+202510,Miraflores,Y01S,10:50 - 12:31,Sabatino,512,17
+202510,Lima Centro,Y04S,08:55 - 10:36,Sabatino,405,20
+202510,Lima Centro,Y05S,08:55 - 10:36,Sabatino,406,20
+202510,Lima Norte Satélite,Y06S,12:45 - 14:26,Sabatino,202,20
+202510,Lima Centro,KN1SP,08:55 - 10:36,Sabatino,101,15
+202510,Miraflores,PK3SP,10:50 - 12:31,Sabatino,201,15
+202510,San Miguel,KN1SP,08:55 - 10:36,Sabatino,502,15
+202510,Miraflores,PK1SP,10:50 - 12:31,Sabatino,202,15
+202510,San Miguel,C02S,08:55 - 10:36,Sabatino,503,19
+202510,San Miguel,C03S,08:55 - 10:36,Sabatino,504,20
+202510,San Miguel,JR8SP,08:55 - 10:36,Sabatino,607,20
+202510,Surco,K01S,08:55 - 10:36,Sabatino,312,20
+202510,Surco,KN4SP,12:45 - 14:26,Sabatino,102,15
+202510,San Miguel,PT3SP,08:55 - 10:36,Sabatino,608,19
+202510,San Miguel,PT5SP,08:55 - 10:36,Sabatino,609,19
+202510,Surco,Y03S,12:45 - 14:26,Sabatino,202,20
+202510,Lima Centro,PK1SP,12:45 - 14:26,Sabatino,101,15
+202510,Surco,PK1SP,12:45 - 14:26,Sabatino,204,15
+202510,La Molina,PK1SP,12:45 - 14:26,Sabatino,303,15
+202510,San Miguel,PK1SP,10:50 - 12:31,Sabatino,502,15
+202510,La Molina,B04BP,08:55 - 12:31,Sabatino,S306,25
+202510,Lima Centro,B05BP,12:45 - 16:21,Sabatino,102,24
+202510,Surco,B06BP,12:45 - 16:21,Sabatino,205,25
+202510,Chimbote,JR3SP,08:55 - 10:36,Sabatino,301,13
+202510,Chimbote,JR6SP,08:55 - 10:36,Sabatino,302,16
+202510,Chimbote,K01S,08:55 - 10:36,Sabatino,205,12
+202510,Iquitos,K02S,12:45 - 14:26,Sabatino,203,20
+202510,Iquitos,K03S,08:55 - 10:36,Sabatino,402,20
+202510,Surco,PT1SP,12:45 - 14:26,Sabatino,209,20
+202510,Chimbote,PT1SP,10:50 - 12:31,Sabatino,204,18
+202510,San Miguel,T01SP,08:55 - 10:36,Sabatino,610,20
+202510,Surco,T03SP,12:45 - 14:26,Sabatino,210,20
+202510,Iquitos,T03SP,12:45 - 14:26,Sabatino,301,20
+202510,La Molina,Y05S,08:55 - 10:36,Sabatino,413,19
+202510,Lima Norte Satélite,KN2SP,16:35 - 18:16,Sabatino,103,15
+202510,San Miguel,PT3SP,10:50 - 12:31,Sabatino,801,19
+202510,San Miguel,C01S,10:50 - 12:31,Sabatino,408,20
+202510,San Miguel,PT6SP,10:50 - 12:31,Sabatino,606,18
+202510,Miraflores,C02S,08:55 - 10:36,Sabatino,401,15
+202510,Chimbote,JR4SP,10:50 - 12:31,Sabatino,205,12
+202510,Lima Norte Satélite,JR8SP,07:00 - 08:41,Sabatino,204,20
+202510,Miraflores,K04S,08:55 - 10:36,Sabatino,305,15
+202510,Chimbote,JR1SP,10:50 - 12:31,Sabatino,302,16
+202510,Pucallpa,K01S,10:50 - 12:31,Sabatino,206,15
+202510,La Molina,C05S,08:55 - 10:36,Sabatino,414,20
+202510,La Molina,Y03S,12:45 - 14:26,Sabatino,304,20
+202510,Lima Centro,B02BP,10:50 - 14:26,Sabatino,509,17
+202510,La Molina,C04S,14:40 - 16:21,Sabatino,201,20
+202510,Lima Centro,JR3SP,08:55 - 10:36,Sabatino,602,20
+202510,La Molina,JR5SP,12:45 - 14:26,Sabatino,307,20
+202510,San Miguel,JR5SP,12:45 - 14:26,Sabatino,202,19
+202510,Chimbote,JR5SP,08:55 - 10:36,Sabatino,303,18
+202510,Pucallpa,JR6SP,08:55 - 10:36,Sabatino,205,14
+202510,Miraflores,JR8SP,08:55 - 10:36,Sabatino,402,15
+202510,Chimbote,JR8SP,10:50 - 12:31,Sabatino,301,13
+202510,San Miguel,K01S,08:55 - 10:36,Sabatino,505,19
+202510,Iquitos,K01S,12:45 - 14:26,Sabatino,401,20
+202510,San Miguel,K05S,08:55 - 10:36,Sabatino,508,19
+202510,San Miguel,K05S,12:45 - 14:26,Sabatino,201,20
+202510,Miraflores,PT3SP,08:55 - 10:36,Sabatino,403,15
+202510,Iquitos,T05SP,10:50 - 12:31,Sabatino,404,20
+202510,Iquitos,KN1SP,08:55 - 10:36,Sabatino,203,15
+202510,La Molina,JR3SP,08:55 - 10:36,Sabatino,504,20
+202510,Lima Centro,KN3SP,08:55 - 10:36,Sabatino,102,15
+202510,Miraflores,KN1SP,08:55 - 10:36,Sabatino,203,15
+202510,Miraflores,T01SP,10:50 - 12:31,Sabatino,303,15
+202510,San Miguel,C06S,10:50 - 12:31,Sabatino,202,19
+202510,San Miguel,T05SP,10:50 - 12:31,Sabatino,804,20
+202510,Surco,Y04S,12:45 - 14:26,Sabatino,301,20
+202510,Surco,K04S,12:45 - 14:26,Sabatino,206,20
+202510,Lima Norte Satélite,JR6SP,14:40 - 16:21,Sabatino,310,20
+202510,Iquitos,PK1SP,12:45 - 14:26,Sabatino,402,15
+202510,Surco,K02S,12:45 - 14:26,Sabatino,302,20
